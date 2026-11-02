@@ -1,0 +1,32 @@
+{
+  "slug": "puleggia-argano-fune",
+  "categoria": "accessori",
+  "titolo": "PULEGGIA PER ARGANO A FUNE",
+  "nome": "PULEGGIA PER ARGANO A FUNE",
+  "descrizione": "Puleggia in ferro zincato con calotta in ferro zincato per rullo con diametro da 60 mm, disponibile da diametro 19 o 21 mm.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Ferro zincato"
+    },
+    {
+      "etichetta": "Calotta",
+      "valore": "Ferro zincato"
+    },
+    {
+      "etichetta": "Diametro rullo",
+      "valore": "60 mm"
+    },
+    {
+      "etichetta": "Diametro disponibile",
+      "valore": "19 o 21 mm"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/puleggia_19_per_argano.jpg?itok=h4hTuQM9",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

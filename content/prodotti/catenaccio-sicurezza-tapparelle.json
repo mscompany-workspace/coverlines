@@ -1,0 +1,24 @@
+{
+  "slug": "catenaccio-sicurezza-tapparelle",
+  "categoria": "accessori",
+  "titolo": "CATENACCIOLO AD INCASSO",
+  "nome": "CATENACCIOLO AD INCASSO",
+  "descrizione": "Catenacciolo per tapparella per lama intermedia.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo",
+      "valore": "Catenacciolo ad incasso"
+    },
+    {
+      "etichetta": "Applicazione",
+      "valore": "Lama intermedia"
+    }
+  ],
+  "colori": [],
+  "immagine": "img/zanzariere/catena.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/catenacciolo_incasso.jpg?itok=Zp03MBN9",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

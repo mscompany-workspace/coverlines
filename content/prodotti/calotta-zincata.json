@@ -1,0 +1,24 @@
+{
+  "slug": "calotta-zincata",
+  "categoria": "accessori",
+  "titolo": "CALOTTA ZINCATA",
+  "nome": "CALOTTA ZINCATA",
+  "descrizione": "Calotta in ferro zincato, disponibile per rullo con diametro da 60 mm o 70 mm.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Ferro zincato"
+    },
+    {
+      "etichetta": "Diametro rullo",
+      "valore": "60 mm o 70 mm"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/calotta_60.jpg?itok=iFjgn6Xo",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

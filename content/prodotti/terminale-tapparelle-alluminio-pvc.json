@@ -1,0 +1,38 @@
+{
+  "slug": "terminale-tapparelle-alluminio-pvc",
+  "categoria": "accessori",
+  "titolo": "TERMINALE IN ALLUMINIO 14X55",
+  "nome": "TERMINALE IN ALLUMINIO 14X55",
+  "descrizione": "Terminale in alluminio estruso 14X55 adatto ad avvolgibili in alluminio e in PVC.\n\nDisponibile nei seguenti colori: bianco, avorio, marrone, testa di moro, argento, bronzo, verde, grigio e nero.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Alluminio estruso"
+    },
+    {
+      "etichetta": "Dimensioni",
+      "valore": "14X55"
+    },
+    {
+      "etichetta": "Compatibilità",
+      "valore": "Avvolgibili in alluminio e in PVC"
+    }
+  ],
+  "colori": [
+    "Bianco",
+    "Avorio",
+    "Marrone",
+    "Testa di moro",
+    "Argento",
+    "Bronzo",
+    "Verde",
+    "Grigio",
+    "Nero"
+  ],
+  "immagine": "",
+  "immagine_url": "",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

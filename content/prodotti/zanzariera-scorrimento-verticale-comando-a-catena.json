@@ -1,0 +1,109 @@
+{
+  "slug": "zanzariera-scorrimento-verticale-comando-a-catena",
+  "categoria": "zanzariere",
+  "titolo": "Zanzariera a scorrimento verticale con comando a catena",
+  "nome": "Catena",
+  "descrizione": "Zanzariera a rullo orizzontale con avvolgimento a molla e scorrimento verticale, dotata di cassonetto tondo in alluminio con ingombro di 50 mm. È indicata per il montaggio su finestre e balconi.\n\nL'apertura e la chiusura avvengono tramite un comando a catena che fa scendere o salire il telo. La catena è posizionata di base sul lato destro, dal lato interno dell'abitazione, ma può essere installata anche sul lato esterno, a scelta. Su richiesta è disponibile il doppio comando, con catena sia interna sia esterna; di base viene fornita con comando interno a destra ed esterno, o viceversa.\n\nGli accessori (catenella, scivoli, testate e ferma catena) sono di colore nero.\n\nLa rete standard è in fibra di vetro elettrosaldata con bottoncini antivento, di colore grigio. Su richiesta è disponibile di colore nero oppure in fibra di vetro a fasce bianche e nere, per una maggiore visibilità della rete.\n\nSono disponibili reti specifiche: la rete antibatterica, pensata per filtrare e ridurre la crescita di batteri e virus; la rete panorama, per una maggiore nitidezza della visuale; e una versione oscurante con telo in PVC, per oscurare un ambiente.\n\nIl telo oscurante è disponibile nei colori bianco, avorio, nero, marrone, verde e grigio. La struttura in alluminio può essere di colore standard (bianco, avorio, nero, marrone, verde, argento, bronzo), a effetto puntinato o a effetto legno.\n\nSono previsti come optional: rete a fasce bianco/nere, rete panorama, rete antipolline, versione a doppio comando, guida telescopica e sistema di blocco corda/catena.\n\nIl prodotto è conforme alla direttiva europea 2006/42/CE e risponde ai requisiti essenziali della norma UNI EN 13561:2004.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo",
+      "valore": "Zanzariera ad avvolgimento su rullo orizzontale a molla"
+    },
+    {
+      "etichetta": "Movimento",
+      "valore": "Scorrimento verticale"
+    },
+    {
+      "etichetta": "Cassonetto",
+      "valore": "Tondo in alluminio, ingombro 50 mm"
+    },
+    {
+      "etichetta": "Comando",
+      "valore": "A catena; lato destro interno di base, lato esterno a scelta"
+    },
+    {
+      "etichetta": "Doppio comando",
+      "valore": "Disponibile su richiesta (catena interna ed esterna)"
+    },
+    {
+      "etichetta": "Colore accessori",
+      "valore": "Nero (catenella, scivoli, testate, ferma catena)"
+    },
+    {
+      "etichetta": "Rete standard",
+      "valore": "Fibra di vetro elettrosaldata con bottoncini antivento"
+    },
+    {
+      "etichetta": "Colore rete standard",
+      "valore": "Grigio"
+    },
+    {
+      "etichetta": "Reti alternative",
+      "valore": "Nera; fibra di vetro a fasce bianche/nere"
+    },
+    {
+      "etichetta": "Rete antibatterica",
+      "valore": "Disponibile"
+    },
+    {
+      "etichetta": "Rete panorama",
+      "valore": "Disponibile"
+    },
+    {
+      "etichetta": "Versione oscurante",
+      "valore": "Telo in PVC"
+    },
+    {
+      "etichetta": "Montaggio",
+      "valore": "Finestre e balconi"
+    },
+    {
+      "etichetta": "Conformità",
+      "valore": "Direttiva 2006/42/CE; norma UNI EN 13561:2004"
+    },
+    {
+      "etichetta": "Optional",
+      "valore": "Rete a fasce bianco/nere, rete panorama, rete antipolline, doppio comando, guida telescopica, sistema di blocco corda/catena"
+    }
+  ],
+  "colori": [
+    "Bianco",
+    "Avorio",
+    "Nero",
+    "Marrone",
+    "Verde",
+    "Argento",
+    "Bronzo",
+    "Effetto puntinato",
+    "Effetto legno",
+    "Grigio",
+    "Bianco/nero a fasce"
+  ],
+  "immagine": "img/zanzariere/catena.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/catena_1.jpg?itok=4CsweZ7O",
+  "documenti": [
+    {
+      "titolo": "Dichiarazione di conformità zanzariera Catena",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazione_Avvolgente_3.pdf"
+    },
+    {
+      "titolo": "Istruzioni di uso e manutenzione Catena",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Catena_Uso_Manutenzione.pdf"
+    },
+    {
+      "titolo": "Manuale di installazione zanzariera a Catena",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Catena_Istallazione.pdf"
+    },
+    {
+      "titolo": "Capitolato zanzariera a Catena",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Zanzariera_Catena.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

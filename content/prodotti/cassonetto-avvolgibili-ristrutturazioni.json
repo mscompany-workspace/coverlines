@@ -1,0 +1,57 @@
+{
+  "slug": "cassonetto-avvolgibili-ristrutturazioni",
+  "categoria": "cassonetti",
+  "titolo": "Cassonetto per avvolgibili isolante",
+  "nome": "Cassonetto Linea Meta",
+  "descrizione": "Si tratta di un cassonetto modulare con parte in polistirene espanso e parte in lamiera, pensato per adattarsi a murature di spessore non standard.\n\nÈ particolarmente adatto alle murature con veletta o cortina esterna di rivestimento.\n\nSi usa nelle ristrutturazioni o per sostituire cassonetti realizzati con sistemi tradizionali.\n\nÈ costituito per metà da polistirene espanso e per metà da lamiera in ferro zincato. Nella versione standard la lamiera è sfinestrata per facilitare il funzionamento della tapparella.\n\nLo spessore varia in genere da 20 a 50 cm, per adattarsi a diverse esigenze costruttive.\n\nL'altezza è di 25 o 30 cm. Di serie sono forniti un supporto per cuscinetto e un guida cielino in PVC bianco.\n\nIn fase d'ordine le misure possono essere indicate come misura finita di realizzazione oppure come misura luce vano grezza.\n\nLe dimensioni di appoggio dipendono dal sistema di manovra scelto, da verificare nella relativa tabella. Le caratteristiche del cassonetto sono nella tabella dimensioni.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiali",
+      "valore": "Metà polistirene espanso, metà lamiera di ferro zincato"
+    },
+    {
+      "etichetta": "Lamiera versione standard",
+      "valore": "Sfinestrata per facilitare il funzionamento della tapparella"
+    },
+    {
+      "etichetta": "Spessore",
+      "valore": "Da 20 a 50 cm"
+    },
+    {
+      "etichetta": "Altezza",
+      "valore": "25 cm o 30 cm"
+    },
+    {
+      "etichetta": "Dotazione di serie",
+      "valore": "Supporto per cuscinetto; guida cielino in PVC bianco"
+    },
+    {
+      "etichetta": "Misure d'ordine",
+      "valore": "Misura finita di realizzazione oppure misura luce vano grezza"
+    },
+    {
+      "etichetta": "Sistemi di manovra",
+      "valore": "Cinghia, argano, motore, asta oscillante, cordone"
+    }
+  ],
+  "colori": [
+    "Guida cielino in PVC: bianco"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/7.%20cassonetto%20linea%20meta_0.jpg?itok=V_TQ8F2O",
+  "documenti": [
+    {
+      "titolo": "Tabella dimensioni del cassonetto",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/3.%20tabella%20LINEA%20META.pdf"
+    },
+    {
+      "titolo": "Tabella sistema di manovra",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/9.%20in%20ogni%20prodotto%20-%20TABELLA%20SISTEMI%20DI%20MANOVRA_1.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

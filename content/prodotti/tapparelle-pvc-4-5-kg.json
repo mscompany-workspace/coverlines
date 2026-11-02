@@ -1,0 +1,108 @@
+{
+  "slug": "tapparelle-pvc-4-5-kg",
+  "categoria": "tapparelle",
+  "titolo": "Tapparella in plastica da 4,5 kg/m2 con doghe da 14x50mm",
+  "nome": "Tapparella in PVC 45",
+  "descrizione": "Tapparella con profili in plastica, ideale per chi vuole un prodotto leggero e conveniente.\n\nRispetto alla tapparella in PVC standard (3,8 kg), risulta più robusta e più resistente agli agenti atmosferici.\n\nLe doghe hanno la misura standard 14x50 mm e l'asolatura è di 18 mm. Il peso è di 4,5 kg al mq e la larghezza massima di realizzazione consigliata è 1500 mm.\n\nÈ disponibile in vari colori, anche effetto legno, senza maggiorazioni di prezzo.\n\nDi serie include tappi conici da 28 mm e terminale in gomma nera. Su richiesta, con sovrapprezzo, è possibile avere un terminale in alluminio abbinabile al colore della tapparella.\n\nMovimentazione: con cintino, argano o motore. Con l'attacco a rullo per motore vengono fornite molle in acciaio al posto dello spezzone di cintino.\n\nOptional: catenaccioli per il terminale o serratura su terminale (solo con terminale in alluminio), catenaccioli ad incasso, e rinforzi metallici inseribili ogni stecca, ogni tre o ogni cinque stecche. Il tipo di rinforzo va specificato in fase d'ordine.\n\nCertificazioni: il prodotto è dichiarato conforme alla direttiva 2006/42/CE e ai requisiti del Regolamento UE 305/2011 e della norma EN 13561:2004+A1:2008.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Profili in plastica (PVC)"
+    },
+    {
+      "etichetta": "Misura nominale doghe",
+      "valore": "14x50 mm"
+    },
+    {
+      "etichetta": "Asolatura",
+      "valore": "18 mm"
+    },
+    {
+      "etichetta": "Peso al mq",
+      "valore": "4,5 kg"
+    },
+    {
+      "etichetta": "Larghezza massima consigliata",
+      "valore": "1500 mm"
+    },
+    {
+      "etichetta": "Tappi",
+      "valore": "Conici da 28 mm (di serie)"
+    },
+    {
+      "etichetta": "Terminale di serie",
+      "valore": "Gomma, colore nero"
+    },
+    {
+      "etichetta": "Terminale opzionale",
+      "valore": "Alluminio (con maggiorazione di prezzo)"
+    },
+    {
+      "etichetta": "Movimentazione",
+      "valore": "Cintino, argano o motore"
+    },
+    {
+      "etichetta": "Optional",
+      "valore": "Catenaccioli per terminale, serratura su terminale, catenaccioli ad incasso, rinforzi metallici (ogni stecca, ogni tre o ogni cinque stecche)"
+    },
+    {
+      "etichetta": "Normative",
+      "valore": "Direttiva 2006/42/CE; Regolamento UE 305/2011; EN 13561:2004+A1:2008"
+    }
+  ],
+  "colori": [
+    "Vari colori",
+    "Effetto legno (senza maggiorazione)",
+    "Terminali in alluminio: bianco",
+    "Terminali in alluminio: avorio",
+    "Terminali in alluminio: marrone",
+    "Terminali in alluminio: nero",
+    "Terminali in alluminio: testa di moro",
+    "Terminali in alluminio: verde",
+    "Terminali in alluminio: grigio",
+    "Terminali in alluminio: argento",
+    "Terminali in alluminio: bronzo"
+  ],
+  "immagine": "img/tapparelle/pvc-45.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/pvc-45.jpg?itok=JivDkfmQ",
+  "documenti": [
+    {
+      "titolo": "Schema misure e diametri di avvolgimento",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/schema%20misure%20e%20diametri_8.pdf"
+    },
+    {
+      "titolo": "Abbinamento colore tapparella con terminale in alluminio",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/ABBINAMENTO%20TERMINALI%20IN%20ALLUMINIO_12.pdf"
+    },
+    {
+      "titolo": "Dichiarazione di conformità",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificato-PVC_0.pdf"
+    },
+    {
+      "titolo": "Certificazione valore GTOT",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/pvc_dich_prestazione_0.pdf"
+    },
+    {
+      "titolo": "Istruzioni di installazione",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Avvolgibili_Istallazione%20%281%29_1.pdf"
+    },
+    {
+      "titolo": "Istruzioni di uso e manutenzione",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Avvolgibili_Uso_Manutenzione_4.pdf"
+    },
+    {
+      "titolo": "Capitolato",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Tapparella_PVC45.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

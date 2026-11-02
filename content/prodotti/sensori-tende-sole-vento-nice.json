@@ -1,0 +1,40 @@
+{
+  "slug": "sensori-tende-sole-vento-nice",
+  "categoria": "automazioni",
+  "titolo": "SENSORE VENTO E VENTO SOLE NICE",
+  "nome": "SENSORE VENTO E VENTO SOLE NICE - VOLO, VOLO S, VOLO ST",
+  "descrizione": "Sensore che consente la chiusura automatica delle tende da sole in caso di forte vento o di condizioni climatiche avverse, onde evitare danni.\n\nOgni sensore può controllare fino a 5 centrali o motori con centrale a bordo collegati in parallelo. Supporto regolabile per fissaggio su superfici con qualunque inclinazione. Un LED bicolore (verde e rosso; acceso, spento o intermittente) fornisce informazioni sullo stato del sensore (superamento della soglia impostata. Malfunzionamenti, ecc.).\n\nSENSORE VOLO: sensore Vento via TTBus interfacciabile con programmatore TTPRO. Soglia vento programmabile su 3 livelli prefissati.\n\nSENSORE VOLO S: sensore Vento-Sole via TTBus interfacciabile con programmatore TTPRO. Soglia Vento programmabile su 3 livelli prefissati, soglia Sole programmabile su 3 livelli prefissati più uno impostabile in autoapprendimento.\n\nSENSORE VOLO ST: sensore Vento-Sole con regolazione a trimmer delle soglie Vento e Sole, via TTBus.",
+  "caratteristiche": [
+    {
+      "etichetta": "Centrali o motori controllabili",
+      "valore": "Fino a 5 collegati in parallelo"
+    },
+    {
+      "etichetta": "Supporto",
+      "valore": "Regolabile per fissaggio su superfici con qualunque inclinazione"
+    },
+    {
+      "etichetta": "LED",
+      "valore": "Bicolore (verde e rosso; acceso, spento o intermittente) per lo stato del sensore"
+    },
+    {
+      "etichetta": "SENSORE VOLO",
+      "valore": "Sensore Vento via TTBus interfacciabile con programmatore TTPRO; soglia vento programmabile su 3 livelli prefissati"
+    },
+    {
+      "etichetta": "SENSORE VOLO S",
+      "valore": "Sensore Vento-Sole via TTBus interfacciabile con programmatore TTPRO; soglia Vento su 3 livelli prefissati, soglia Sole su 3 livelli prefissati più uno in autoapprendimento"
+    },
+    {
+      "etichetta": "SENSORE VOLO ST",
+      "valore": "Sensore Vento-Sole con regolazione a trimmer delle soglie Vento e Sole, via TTBus"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/7%20nice%20volo_0.jpg?itok=96uU-0wx",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

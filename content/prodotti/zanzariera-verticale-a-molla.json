@@ -1,0 +1,94 @@
+{
+  "slug": "zanzariera-verticale-a-molla",
+  "categoria": "zanzariere",
+  "titolo": "Zanzariera a scorrimento verticale a molla",
+  "nome": "Molla",
+  "descrizione": "Zanzariera a rullo orizzontale con movimento di scorrimento verticale, pensata per il montaggio su finestre e balconi.\n\nIl cassonetto in alluminio ha un ingombro di 50 mm. Su richiesta è disponibile una versione con cassonetto da 40 mm, adatta al montaggio su finestre. In questa versione gli accessori sono solo di colore nero.\n\nÈ possibile installare un deceleratore, che evita la chiusura brusca della zanzariera.\n\nIn caso di fuori squadro, si può richiedere una guida telescopica che compensa la differenza di allineamento.\n\nGli accessori sono di serie neri, ma su richiesta si possono avere in bianco, avorio o bronzo.\n\nLa rete è in fibra di vetro elettrosaldata con bottoncini antivento, di colore grigio di serie o nero su richiesta. Per una migliore visibilità della rete è disponibile una versione in fibra di vetro a strisce bianche e nere.\n\nSono disponibili reti specifiche: una antibatterica, utile per filtrare e ridurre la proliferazione di batteri e virus, e una rete Panorama, che garantisce una maggiore nitidezza della visuale.\n\nÈ possibile realizzare una versione oscurante con telo in PVC, per oscurare un ambiente. Il telo è disponibile in bianco, avorio, nero, marrone, verde o grigio e può essere abbinato a una struttura in alluminio di colore standard, a effetto puntinato o a effetto legno.\n\nLa zanzariera è conforme alla direttiva europea 2006/42/CE e rispetta i requisiti essenziali della norma UNI EN 13561:2004.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo",
+      "valore": "Zanzariera a rullo orizzontale con scorrimento verticale"
+    },
+    {
+      "etichetta": "Montaggio",
+      "valore": "Finestre e balconi"
+    },
+    {
+      "etichetta": "Cassonetto standard",
+      "valore": "Alluminio, ingombro 50 mm"
+    },
+    {
+      "etichetta": "Cassonetto a richiesta",
+      "valore": "Ingombro 40 mm, per montaggio su finestre"
+    },
+    {
+      "etichetta": "Deceleratore",
+      "valore": "Disponibile, impedisce la chiusura brusca"
+    },
+    {
+      "etichetta": "Guida telescopica",
+      "valore": "Disponibile a richiesta, per compensare il fuori squadro"
+    },
+    {
+      "etichetta": "Rete standard",
+      "valore": "Fibra di vetro elettrosaldata con bottoncini antivento"
+    },
+    {
+      "etichetta": "Rete alternativa",
+      "valore": "Fibra di vetro a strisce bianche/nere; antibatterica; Panorama"
+    },
+    {
+      "etichetta": "Versione oscurante",
+      "valore": "Telo in PVC"
+    },
+    {
+      "etichetta": "Certificazione",
+      "valore": "Direttiva 2006/42/CE; norma UNI EN 13561:2004"
+    }
+  ],
+  "colori": [
+    "Nero",
+    "Bianco",
+    "Avorio",
+    "Bronzo",
+    "Grigio",
+    "Marrone",
+    "Verde",
+    "Argento",
+    "Effetto puntinato",
+    "Effetto legno",
+    "Bianco/nero a strisce"
+  ],
+  "immagine": "img/zanzariere/primus-verticale.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/molla-1.jpg?itok=2pYhyFjv",
+  "documenti": [
+    {
+      "titolo": "Dichiarazione di conformità Molla",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazione_Avvolgente_1.pdf"
+    },
+    {
+      "titolo": "Manuale di installazione zanzariera Molla con guida telescopica e cricchetto",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Molla_Guida_Tele_Cricchetto_Istallazione_0.pdf"
+    },
+    {
+      "titolo": "Manuale di installazione zanzariera Molla",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Molla_Istallazione_0.pdf"
+    },
+    {
+      "titolo": "Istruzioni di uso e manutenzione zanzariera Molla",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Molla_Uso_Manutenzione_0.pdf"
+    },
+    {
+      "titolo": "Capitolato zanzariera Molla",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Zanzariera_Molla.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

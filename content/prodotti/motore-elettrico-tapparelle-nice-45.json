@@ -1,0 +1,48 @@
+{
+  "slug": "motore-elettrico-tapparelle-nice-45",
+  "categoria": "automazioni",
+  "titolo": "MOTORE NICE ELETTRONICO RADIO CON DIAMETRO 45",
+  "nome": "MOTORE NICE ERA MAT MA Ø 45 mm",
+  "descrizione": "Motore per tapparelle con finecorsa elettronico, ricevente radio integrata e tecnologia TTBus a 3 fili che permette di gestire il movimento del motore attraverso un comando di bassa tensione, di collegare i sensori climatici via filo senza l’ausilio di centrali esterne, e/o via radio in modo semplice e intuitivo.\n\nDiametro del motore da 45 mm e azionamento con pulsantiera e telecomando. Gli adattatori e i supporti sono compresi.\n\nFacile regolazione del finecorsa a distanza tramite trasmettitore o con le unità di programmazione esterne O-View TT e TTPRO, in modalità automatica, semiautomatica o manuale.\n\nComodo feedback di ritorno attraverso il movimento dell’avvolgibile.\n\nProgrammazione a livelli: veloce e sicura\n\nBlocco della memoria\n\nRegolazione di più quote intermedie di apertura",
+  "caratteristiche": [
+    {
+      "etichetta": "Diametro",
+      "valore": "45 mm"
+    },
+    {
+      "etichetta": "Finecorsa",
+      "valore": "Elettronico"
+    },
+    {
+      "etichetta": "Ricevente",
+      "valore": "Radio integrata"
+    },
+    {
+      "etichetta": "Tecnologia di comando",
+      "valore": "TTBus a 3 fili, comando di bassa tensione"
+    },
+    {
+      "etichetta": "Azionamento",
+      "valore": "Pulsantiera e telecomando"
+    },
+    {
+      "etichetta": "Adattatori e supporti",
+      "valore": "Compresi"
+    },
+    {
+      "etichetta": "Regolazione finecorsa",
+      "valore": "A distanza tramite trasmettitore o con le unità di programmazione esterne O-View TT e TTPRO, in modalità automatica, semiautomatica o manuale"
+    },
+    {
+      "etichetta": "Sensori climatici",
+      "valore": "Collegabili via filo senza l’ausilio di centrali esterne e/o via radio"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/6-ERA-MAT-MA.jpg?itok=bBJPM3xY",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

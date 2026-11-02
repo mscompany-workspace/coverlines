@@ -1,0 +1,34 @@
+{
+  "slug": "guidacinghia-pvc-orizzontale-tapparelle",
+  "categoria": "accessori",
+  "titolo": "GUIDA CINGHIA IN PVC ORIZZONTALE",
+  "nome": "GUIDA CINGHIA IN PVC ORIZZONTALE",
+  "descrizione": "Guida cinghia in resina acetalica bianco, per cintino 20-22 mm.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Resina acetalica"
+    },
+    {
+      "etichetta": "Tipo",
+      "valore": "Orizzontale"
+    },
+    {
+      "etichetta": "Colore",
+      "valore": "Bianco"
+    },
+    {
+      "etichetta": "Per cintino",
+      "valore": "20-22 mm"
+    }
+  ],
+  "colori": [
+    "Bianco"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/guida%20cinghia%20orizzontale.jpg?itok=pIjcfpc2",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

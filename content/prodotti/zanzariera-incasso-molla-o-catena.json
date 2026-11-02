@@ -1,0 +1,102 @@
+{
+  "slug": "zanzariera-incasso-molla-o-catena",
+  "categoria": "zanzariere",
+  "titolo": "Zanzariera ad incasso a molla o a catena",
+  "nome": "Incasso 78",
+  "descrizione": "Incasso 78 è una zanzariera ad incasso con guida da 78 mm, progettata per far scorrere sia la zanzariera sia l'avvolgibile.\n\nLe guide sono montate a filo muro, quindi risultano a scomparsa a installazione completata.\n\nLa zanzariera è disponibile in due tipologie: a molla oppure a catena. La versione a catena prevede un cassonetto da 50 mm.\n\nNella versione a molla è possibile richiedere, come optional, un deceleratore da applicare alla zanzariera per evitare chiusure brusche.\n\nDi serie la rete è in fibra di vetro grigia. Su richiesta è disponibile in nero, oppure in fibra di vetro a strisce bianche e nere per una maggiore visibilità.\n\nSono disponibili reti specifiche: la rete Panorama, per una maggiore nitidezza, e la rete antibatterica, pensata per filtrare e ridurre la crescita di batteri e virus.\n\nÈ possibile realizzare una versione oscurante inserendo un telo in PVC, disponibile nei colori bianco, avorio, grigio, verde, marrone e nero.\n\nLa struttura in alluminio può essere nei colori standard (bianco, avorio, marrone, verde, nero, bronzo, argento), oppure con effetto puntinato o effetto legno.\n\nDi serie il cassonetto è nero opaco, salvo diversa richiesta in fase d'ordine.\n\nIl prodotto è dichiarato conforme alla direttiva europea 2006/42/CE e risponde ai requisiti essenziali della norma UNI EN 13561:2004.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo di guida",
+      "valore": "78 mm, a filo muro (a scomparsa)"
+    },
+    {
+      "etichetta": "Tipologie",
+      "valore": "A molla oppure a catena"
+    },
+    {
+      "etichetta": "Cassonetto (versione a catena)",
+      "valore": "50 mm"
+    },
+    {
+      "etichetta": "Deceleratore",
+      "valore": "Optional, disponibile sulla versione a molla"
+    },
+    {
+      "etichetta": "Rete standard",
+      "valore": "Fibra di vetro grigia"
+    },
+    {
+      "etichetta": "Reti opzionali",
+      "valore": "Fibra di vetro nera; fibra di vetro a strisce bianche e nere; rete Panorama; rete antibatterica"
+    },
+    {
+      "etichetta": "Telo oscurante",
+      "valore": "PVC"
+    },
+    {
+      "etichetta": "Colore cassonetto standard",
+      "valore": "Nero opaco"
+    },
+    {
+      "etichetta": "Struttura in alluminio",
+      "valore": "Colori standard, effetto puntinato o effetto legno"
+    },
+    {
+      "etichetta": "Conformità",
+      "valore": "Direttiva 2006/42/CE; norma UNI EN 13561:2004"
+    },
+    {
+      "etichetta": "Caratteristiche della rete",
+      "valore": "Antipolline, antibatterica, oscurante, panorama"
+    }
+  ],
+  "colori": [
+    "Bianco",
+    "Avorio",
+    "Grigio",
+    "Verde",
+    "Marrone",
+    "Nero",
+    "Bronzo",
+    "Argento",
+    "Effetto puntinato",
+    "Effetto legno"
+  ],
+  "immagine": "img/zanzariere/catena.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/incasso-78.jpg?itok=RZLVfVMx",
+  "documenti": [
+    {
+      "titolo": "Dichiarazione di conformità zanzariera Incasso 78",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazione_Avvolgente_6.pdf"
+    },
+    {
+      "titolo": "Manuale di installazione Incasso 78 a catena",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Incassata78_Catena_Istallazione.pdf"
+    },
+    {
+      "titolo": "Istruzioni di uso e manutenzione Incasso 78 a catena",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Incassata78_Catena_Uso_Manutenzione.pdf"
+    },
+    {
+      "titolo": "Manuale di installazione Incasso 78 a molla",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Incassata78_Molla_Istallazione.pdf"
+    },
+    {
+      "titolo": "Istruzioni di uso e manutenzione Incasso 78 a molla",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Incassata78_Molla_Uso_Manutenzione.pdf"
+    },
+    {
+      "titolo": "Capitolato Incasso 78",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Zanzariera_Incasso_50-78.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

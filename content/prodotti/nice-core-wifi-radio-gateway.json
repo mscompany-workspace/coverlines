@@ -1,0 +1,36 @@
+{
+  "slug": "nice-core-wifi-radio-gateway",
+  "categoria": "automazioni",
+  "titolo": "NICE CORE WI FI RADIO GATEWAY",
+  "nome": "Nice Core Wi-Fi Radio Gateway",
+  "descrizione": "Nice Wi-Fi Radio Gateway permette la gestione delle automazioni Nice tramite MyNice Welcome App.\n\nTramite la comunicazione Wi-Fi, Core permette di connettere, fare interagire e controllare, anche da remoto, automazioni Nice con ricevente radio integrata per tapparelle, ma anche per porte, cancelli, tende, barriere.\n\nPermette anche il controllo dei telecomandi anche monodirezionali.\n\nLa configurazione tra automazioni e la programmazione degli scenari avviene in modo intuitivo tramite la MyNice Welcome App.\n\nMy Nice Welcome App\n\nÈ un'unica APP che consente all'utente di configurare e controllare i dispositivi Nice direttamente dallo smartphone mediante il gateway Wi-Fi Radio Nice Core.\n\nGrazie a quest'APP è possibile visualizzare anche lo stato di ogni singola automazione e comandarla ovunque ci si trovi a condizione che lo smartphone abbia connessione a internet.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo",
+      "valore": "Gateway Wi-Fi Radio"
+    },
+    {
+      "etichetta": "Comunicazione",
+      "valore": "Wi-Fi"
+    },
+    {
+      "etichetta": "App di gestione",
+      "valore": "MyNice Welcome App"
+    },
+    {
+      "etichetta": "Automazioni compatibili",
+      "valore": "Automazioni Nice con ricevente radio integrata: tapparelle, porte, cancelli, tende, barriere"
+    },
+    {
+      "etichetta": "Telecomandi",
+      "valore": "Controllo anche dei telecomandi monodirezionali"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/2%20NICE%20CORE_0.jpg?itok=NlwHDEf7",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

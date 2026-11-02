@@ -1,0 +1,40 @@
+{
+  "slug": "motore-tapparelle-nice-58-manovra-soccorso",
+  "categoria": "automazioni",
+  "titolo": "MOTORE MECCANICO 58 CON MANOVRA DI SOCCORSO",
+  "nome": "MOTORE NICE ERA LH Ø 58 mm",
+  "descrizione": "Motore con finecorsa meccanico e manovra di soccorso manuale, diametro da 58 mm e azionamento con pulsantiera. Gli adattatori e i supporti sono compresi.\n\nPotente, robusto e versatile\n\nUtilizzabile anche per applicazioni di grandi dimensioni\n\nIntuitiva regolazione delle posizioni limite di salita e discesa grazie al finecorsa meccanico.\n\nCollegamento ai sensori climatici, via filo e/o radio",
+  "caratteristiche": [
+    {
+      "etichetta": "Diametro",
+      "valore": "58 mm"
+    },
+    {
+      "etichetta": "Finecorsa",
+      "valore": "Meccanico"
+    },
+    {
+      "etichetta": "Manovra di soccorso",
+      "valore": "Manuale"
+    },
+    {
+      "etichetta": "Azionamento",
+      "valore": "Pulsantiera"
+    },
+    {
+      "etichetta": "Adattatori e supporti",
+      "valore": "Compresi"
+    },
+    {
+      "etichetta": "Collegamento sensori climatici",
+      "valore": "Via filo e/o radio"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/10.-ERA-LH.jpg?itok=N5tRGuON",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "guide-zanzariera-per-tapparella",
+  "categoria": "zanzariere",
+  "titolo": "Sistema guida tapparella + zanzariera",
+  "nome": "Incassata 80",
+  "descrizione": "Incassata 80 è un sistema basato su una guida per tapparella che può ospitare anche la zanzariera. Sono compatibili diversi modelli di zanzariera, da scegliere in base alle esigenze del cliente: Plissé, Evo Twin, Kit Quadra 45 verticale, Kit Quadra 45 laterale e Alto Block.\n\nIl prodotto è pensato per un'installazione semplice e rapida e può essere personalizzato in base alla soluzione scelta.\n\nSe non si desidera installare la zanzariera, lo spazio predisposto può essere coperto con un carter in PVC o in alluminio (optional). Il carter protegge il vano e migliora l'aspetto estetico dell'infisso.\n\nLe guide sono a scomparsa. Al momento dell'ordine occorre indicare se le misure fornite sono misure finite oppure misure luce guida. Con misure finite, il kit viene fornito con le dimensioni ordinate, che rappresentano l'ingombro massimo. Con misure luce guida, il kit viene fornito e addebitato con la larghezza maggiorata di 40 mm per lato (40x2 mm), mentre l'altezza coincide con la misura finita.\n\nLe guide sono disponibili in colori standard, con effetto puntinato o con effetto legno. La scelta del colore può influire sui tempi di consegna.\n\nIl sistema offre molteplici applicazioni personalizzabili in base alle esigenze tecniche. Per il Kit Quadra 45 verticale, oltre alla chiusura standard alla base, è possibile optare per la soluzione Alto Block, con maniglia alta e chiusura sul telaio dell'infisso.\n\nIl profilo Incassata 80 può essere usato anche solo per la tapparella, senza zanzariera. In questo caso il vuoto può essere coperto con un carter in PVC o in alluminio, che garantisce protezione ed estetica.\n\nIl prodotto è conforme alla direttiva europea 2006/42/CE e rispetta i requisiti essenziali della norma UNI EN 13561:2004.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo di sistema",
+      "valore": "Guida per tapparella con predisposizione per zanzariera"
+    },
+    {
+      "etichetta": "Modelli di zanzariera compatibili",
+      "valore": "Plissé, Evo Twin, Kit Quadra 45 verticale, Kit Quadra 45 laterale, Alto Block"
+    },
+    {
+      "etichetta": "Tipo di guida",
+      "valore": "A scomparsa"
+    },
+    {
+      "etichetta": "Misure finite",
+      "valore": "Fornite con le misure ordinate (ingombro massimo)"
+    },
+    {
+      "etichetta": "Misure luce guida",
+      "valore": "Larghezza maggiorata di 40x2 mm; altezza pari alla misura finita"
+    },
+    {
+      "etichetta": "Installazione",
+      "valore": "Semplice e veloce"
+    },
+    {
+      "etichetta": "Accessori optional",
+      "valore": "Carter in PVC o in alluminio"
+    },
+    {
+      "etichetta": "Conformità",
+      "valore": "Direttiva 2006/42/CE"
+    },
+    {
+      "etichetta": "Norma di riferimento",
+      "valore": "UNI EN 13561:2004"
+    }
+  ],
+  "colori": [
+    "Bianco",
+    "Avorio",
+    "Marrone",
+    "Verde",
+    "Nero",
+    "Testa di moro",
+    "Bronzo",
+    "Argento",
+    "Effetto puntinato",
+    "Effetto legno"
+  ],
+  "immagine": "img/zanzariere/incassata-80-tapparella.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/incassata-80-tapparella.jpg?itok=yL8OtchT",
+  "documenti": [
+    {
+      "titolo": "Dichiarazione di conformità Incasso 80 Tapparella",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazione_Avvolgente_13.pdf"
+    },
+    {
+      "titolo": "Istruzioni per l'installazione Incasso 80",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Incasso80_Istallazione.pdf"
+    },
+    {
+      "titolo": "Istruzioni per uso e manutenzione Incasso 80",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Incasso80_Uso_Manutenzione.pdf"
+    },
+    {
+      "titolo": "Voci di capitolato zanzariera Incasso 80-120",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Zanzariera_Incasso_80-120.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "snodo-90-gradi",
+  "categoria": "accessori",
+  "titolo": "SNODO A 90°",
+  "nome": "SNODO A 90°",
+  "descrizione": "Snodo a 90° in acciaio nichelato, occhiolo in acciaio zincato e placca in zama nichelata.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale snodo",
+      "valore": "Acciaio nichelato"
+    },
+    {
+      "etichetta": "Occhiolo",
+      "valore": "Acciaio zincato"
+    },
+    {
+      "etichetta": "Placca",
+      "valore": "Zama nichelata"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/snodo_90.jpg?itok=N12QK4sS",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

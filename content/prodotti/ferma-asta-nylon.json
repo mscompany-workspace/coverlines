@@ -1,0 +1,24 @@
+{
+  "slug": "ferma-asta-nylon",
+  "categoria": "accessori",
+  "titolo": "FERMA ASTA NYLON",
+  "nome": "FERMA ASTA NYLON",
+  "descrizione": "Ferma asta in nylon con diametro 14 mm.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Nylon"
+    },
+    {
+      "etichetta": "Diametro",
+      "valore": "14 mm"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/ferma_asta_nylon.jpg?itok=0VQL0F1x",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "zanzariera-battente",
+  "categoria": "zanzariere",
+  "titolo": "Zanzariera con porta a battente",
+  "nome": "Battente",
+  "descrizione": "Zanzariera a battente per porte finestre, con chiusura magnetica, pensata per balconi, patii e verande. Di serie il telaio è a Z: il coprifilo copre il bordo esterno dell'ornia del vano. Su richiesta è disponibile il telaio a L, che si inserisce all'interno del vano.\n\nLa struttura in alluminio è disponibile nei colori standard, con finitura puntinata o con effetto legno. La rete di serie è in fibra di vetro grigia; a richiesta è disponibile in colore nero o a strisce bianche e nere, per una maggiore visibilità della rete.\n\nLe configurazioni realizzabili sono a due ante, a tre ante o a una sola anta. Il senso di apertura può essere scelto in base alle esigenze.\n\nL'altezza massima realizzabile è di 260 cm. Per vani più alti è possibile inserire un sopraluce fisso, che compensa l'altezza mancante.\n\nPer chi ha animali domestici è disponibile una versione con portina basculante (pet door), che consente a gatti e cani di piccola e media taglia di entrare e uscire. In presenza di animali si consiglia una rete più resistente, come quella in alluminio, in acciaio o Pet Screen.\n\nÈ disponibile anche la versione in kit fai da te: i profili in alluminio e tutti gli accessori vengono forniti non assemblati e senza rete. È una soluzione indicata per chi sa montare la zanzariera e desidera contenere i costi.\n\nLa zanzariera è dichiarata conforme alla direttiva europea 2006/42/CE e rispondente ai requisiti essenziali della norma UNI EN 13561:2004.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo di apertura",
+      "valore": "Battente"
+    },
+    {
+      "etichetta": "Chiusura",
+      "valore": "Magnetica"
+    },
+    {
+      "etichetta": "Configurazioni",
+      "valore": "Una anta, due ante, tre ante"
+    },
+    {
+      "etichetta": "Telaio di serie",
+      "valore": "Tipo Z (coprifilo a copertura dell'ornia)"
+    },
+    {
+      "etichetta": "Telaio su richiesta",
+      "valore": "Tipo L (inserito all'interno del vano)"
+    },
+    {
+      "etichetta": "Altezza massima",
+      "valore": "260 cm"
+    },
+    {
+      "etichetta": "Sopraluce",
+      "valore": "Fisso, per misure superiori a 260 cm"
+    },
+    {
+      "etichetta": "Rete di serie",
+      "valore": "Fibra di vetro grigia"
+    },
+    {
+      "etichetta": "Rete a richiesta",
+      "valore": "Nera oppure a strisce bianche e nere"
+    },
+    {
+      "etichetta": "Portina per animali",
+      "valore": "Pet door basculante, per gatti e cani di piccola e media taglia"
+    },
+    {
+      "etichetta": "Versione kit fai da te",
+      "valore": "Profili e accessori non assemblati, senza rete"
+    },
+    {
+      "etichetta": "Conformità",
+      "valore": "Direttiva 2006/42/CE; norma UNI EN 13561:2004"
+    }
+  ],
+  "colori": [
+    "Bianco",
+    "Avorio",
+    "Nero",
+    "Marrone",
+    "Verde",
+    "Argento",
+    "Bronzo"
+  ],
+  "immagine": "img/zanzariere/battente.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/battente.jpg?itok=YYCUI4rC",
+  "documenti": [
+    {
+      "titolo": "Dichiarazione di conformità Zanzariera Battente",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazioni_Pannelli.pdf"
+    },
+    {
+      "titolo": "Manuale di installazione zanzariera Battente a 2 ante",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Battente_2Ante_Istallazione.pdf"
+    },
+    {
+      "titolo": "Manuale di installazione zanzariera Battente",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Battente_Istallazione.pdf"
+    },
+    {
+      "titolo": "Istruzioni di uso e manutenzione zanzariera Battente",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Battente_Uso_Manutenzione.pdf"
+    },
+    {
+      "titolo": "Capitolato zanzariera Battente",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Zanzariera_Battente.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

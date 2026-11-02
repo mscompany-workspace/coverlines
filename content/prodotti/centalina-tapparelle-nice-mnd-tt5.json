@@ -1,0 +1,36 @@
+{
+  "slug": "centalina-tapparelle-nice-mnd-tt5",
+  "categoria": "automazioni",
+  "titolo": "CENTRALINA NICE MINDT TT5",
+  "nome": "CENTRALINA NICE MINDT TT5",
+  "descrizione": "Centrale con ricevente radio integrata per il comando di 2 motori sincronizzati fino a 600 W.\n\nPermette di gestire in modo sincronizzato i due motori, anche con rotazione su assi diversi, con comando simultaneo ma ognuno con il proprio finecorsa.\n\nMemorizza fino a 30 trasmettitori senza necessità di doversi collegare o accedere al motore.\n\nConsente l’inserimento a distanza dei nuovi trasmettitori una volta memorizzato il primo.\n\nCollegamento via filo e via radio ai sensori climatici.",
+  "caratteristiche": [
+    {
+      "etichetta": "Ricevente",
+      "valore": "Radio integrata"
+    },
+    {
+      "etichetta": "Motori comandabili",
+      "valore": "2 sincronizzati"
+    },
+    {
+      "etichetta": "Potenza massima",
+      "valore": "600 W"
+    },
+    {
+      "etichetta": "Trasmettitori memorizzabili",
+      "valore": "Fino a 30"
+    },
+    {
+      "etichetta": "Collegamento sensori climatici",
+      "valore": "Via filo e via radio"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/TT5.jpg?itok=gvxTMJlH",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

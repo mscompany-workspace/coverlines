@@ -1,0 +1,37 @@
+{
+  "slug": "guida-alluminio-tapparelle-spazzolino",
+  "categoria": "accessori",
+  "titolo": "GUIDA PER TAPPARELLE 32X50",
+  "nome": "GUIDA PER TAPPARELLE 32X50",
+  "descrizione": "Guida in alluminio con spazzolino dimensioni 32X50.\n\nDisponibili nei colori: bianco, avorio, marrone, verde, grigio, argento, bronzo e nero.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Alluminio"
+    },
+    {
+      "etichetta": "Dimensioni",
+      "valore": "32X50"
+    },
+    {
+      "etichetta": "Spazzolino",
+      "valore": "Con spazzolino"
+    }
+  ],
+  "colori": [
+    "Bianco",
+    "Avorio",
+    "Marrone",
+    "Verde",
+    "Grigio",
+    "Argento",
+    "Bronzo",
+    "Nero"
+  ],
+  "immagine": "",
+  "immagine_url": "",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

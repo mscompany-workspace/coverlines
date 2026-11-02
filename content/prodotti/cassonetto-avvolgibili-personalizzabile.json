@@ -1,0 +1,50 @@
+{
+  "slug": "cassonetto-avvolgibili-personalizzabile",
+  "categoria": "cassonetti",
+  "titolo": "Cassonetto in polistirolo personalizzabile",
+  "nome": "Cassonetto E-Box",
+  "descrizione": "Il prodotto è un cassonetto per tapparelle in polistirene espanso, lavorato con taglio a pantografo. I componenti vengono ricavati da un unico blocco, tagliato secondo il disegno di progetto, e questo permette di ottenere sagome di tipo diverso con profilo su richiesta.\n\nI vantaggi elencati sono: dimensioni, altezza e spessori modulabili su progetto; compatibilità con qualsiasi sistema di manovra; ispezione secondo le esigenze; convenienza per cassonetti non standard.\n\nÈ disponibile con ispezione frontale o a celino. Con l'ispezione frontale sono forniti due tappi: uno provvisorio in OSB, da usare durante i lavori di ristrutturazione, e uno definitivo in MDF da 8 mm, verniciabile.\n\nIn fase d'ordine le misure possono essere indicate come dimensioni finite del cassonetto oppure come luce del vano grezzo.\n\nLe dimensioni di appoggio dipendono dal sistema di manovra scelto, come indicato nella tabella dedicata.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Polistirene espanso"
+    },
+    {
+      "etichetta": "Lavorazione",
+      "valore": "Taglio a pantografo"
+    },
+    {
+      "etichetta": "Tipo di ispezione",
+      "valore": "Frontale oppure a celino"
+    },
+    {
+      "etichetta": "Tappi (ispezione frontale)",
+      "valore": "OSB provvisorio; MDF da 8 mm verniciabile definitivo"
+    },
+    {
+      "etichetta": "Dimensioni",
+      "valore": "Dimensioni, altezza e spessori modulabili su progetto"
+    },
+    {
+      "etichetta": "Modalità di misura",
+      "valore": "Misure finite di realizzazione oppure luce vano grezza"
+    },
+    {
+      "etichetta": "Sistemi di manovra",
+      "valore": "Cinghia, argano, motore, asta oscillante, cordone"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/e-box.jpg?itok=N0Puglwf",
+  "documenti": [
+    {
+      "titolo": "Tabella sistemi di manovra",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/9.%20in%20ogni%20prodotto%20-%20TABELLA%20SISTEMI%20DI%20MANOVRA_6.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

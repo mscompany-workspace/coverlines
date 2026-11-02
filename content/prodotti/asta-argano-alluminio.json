@@ -1,0 +1,24 @@
+{
+  "slug": "asta-argano-alluminio",
+  "categoria": "accessori",
+  "titolo": "ASTA IN ALLUMINIO",
+  "nome": "ASTA IN ALLUMINIO",
+  "descrizione": "Asta in alluminio per argano.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Alluminio"
+    },
+    {
+      "etichetta": "Utilizzo",
+      "valore": "Per argano"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

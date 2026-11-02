@@ -1,0 +1,82 @@
+{
+  "slug": "tapparella-termica-alluminio-pvc-13x55",
+  "categoria": "tapparelle",
+  "titolo": "Tapparella 13x55 con profilo in alluminio incastrato ad un profilo in PVC",
+  "nome": "Tapparella Thermic Alluminio/PVC 13x55",
+  "descrizione": "Si tratta di una tapparella in PVC e alluminio coibentata con schiuma di poliuretano espanso ad alta densità.\n\nIn inverno, tra il profilo in PVC, posto all'interno, e il profilo in alluminio, posto all'esterno, è presente un taglio termico che riduce la dispersione del calore e produce un risparmio energetico rilevante. In estate il profilo in PVC rivolto all'interno mantiene temperature inferiori a quelle esterne e non trasmette il calore all'abitazione.\n\nLe doghe sono nella misura standard 13x55, il peso è di 6 kg al m², e la larghezza massima di realizzazione consigliata è 4200 mm.\n\nPer l'abbinamento dei colori si rimanda all'allegato \"Tabella Colori Esterno Alluminio/Interno PVC\".\n\nTerminali: di serie è fornito un terminale in gomma nera. A richiesta, con sovrapprezzo, è disponibile un terminale in alluminio colorabile. Con il terminale in alluminio si possono aggiungere catenaccioli o serratura come optional, per aumentare la sicurezza.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale profilo interno",
+      "valore": "PVC"
+    },
+    {
+      "etichetta": "Materiale profilo esterno",
+      "valore": "Alluminio"
+    },
+    {
+      "etichetta": "Isolante",
+      "valore": "Schiuma di poliuretano espanso ad alta densità"
+    },
+    {
+      "etichetta": "Misura nominale doghe",
+      "valore": "13x55"
+    },
+    {
+      "etichetta": "Peso al mq",
+      "valore": "6 kg/m²"
+    },
+    {
+      "etichetta": "Larghezza massima consigliata",
+      "valore": "4200 mm"
+    },
+    {
+      "etichetta": "Terminale di serie",
+      "valore": "Gomma, colore nero"
+    },
+    {
+      "etichetta": "Terminale opzionale",
+      "valore": "Alluminio (con sovrapprezzo)"
+    },
+    {
+      "etichetta": "Optional",
+      "valore": "Catenaccioli, serratura su terminale"
+    },
+    {
+      "etichetta": "Certificazione",
+      "valore": "Thermic Valore GTOT"
+    }
+  ],
+  "colori": [
+    "Terminali in alluminio: bianco",
+    "Terminali in alluminio: avorio",
+    "Terminali in alluminio: marrone",
+    "Terminali in alluminio: nero",
+    "Terminali in alluminio: testa di moro",
+    "Terminali in alluminio: verde",
+    "Terminali in alluminio: grigio",
+    "Terminali in alluminio: argento",
+    "Terminali in alluminio: bronzo"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/thermic%2013x55.jpg?itok=1xWeA1Ai",
+  "documenti": [
+    {
+      "titolo": "Schema per il rilevamento misure e tabella diametri di avvolgimento",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/schema%20misure%20e%20diametri_14.pdf"
+    },
+    {
+      "titolo": "Abbinamento Colore Tapparella con Colore terminale in Alluminio",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/ABBINAMENTO%20TERMINALI%20IN%20ALLUMINIO_9.pdf"
+    },
+    {
+      "titolo": "Certificazione Thermic Valore GTOT",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazione%20Thermic%20%28gtot%29_0.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

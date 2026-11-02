@@ -1,0 +1,40 @@
+{
+  "slug": "zanzariera-fai-da-te",
+  "categoria": "zanzariere",
+  "titolo": "Zanzariera fai da te",
+  "nome": "Delta 40 a barre",
+  "descrizione": "Zanzariera con cassonetto arrotondato dall'ingombro di 40 mm, adatta a qualsiasi tipo di porta e finestra.\n\nI tappi compensatori permettono un margine di errore di 10 mm nel taglio del cassonetto e facilitano il montaggio nel vano, compensando eventuali irregolarità del muro.\n\nL'installazione prevede tre fasi: misurazione, taglio del cassonetto e delle guide, fissaggio.",
+  "caratteristiche": [
+    {
+      "etichetta": "Ingombro cassonetto",
+      "valore": "40 mm"
+    },
+    {
+      "etichetta": "Forma cassonetto",
+      "valore": "Arrotondato"
+    },
+    {
+      "etichetta": "Margine di errore nel taglio del cassonetto",
+      "valore": "10 mm"
+    },
+    {
+      "etichetta": "Tappi compensatori",
+      "valore": "Presenti"
+    },
+    {
+      "etichetta": "Applicazione",
+      "valore": "Qualsiasi tipo di porta e finestra"
+    },
+    {
+      "etichetta": "Fasi di installazione",
+      "valore": "Misurazione, taglio del cassonetto e delle guide, fissaggio"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/barre3.jpg?itok=HoZkTHbQ",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

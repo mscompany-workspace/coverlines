@@ -1,0 +1,83 @@
+{
+  "slug": "frangisole-alluminio-orientabili-80",
+  "categoria": "frangisole",
+  "titolo": "Frangisole orientabile in lamiera di alluminio da 80 mm",
+  "nome": "Frangisole L 80",
+  "descrizione": "Il Frangisole L 80 è indicato per chi vuole regolare luminosità e temperatura di un ambiente senza rinunciare all'aspetto estetico.\n\nÈ un frangisole a lamelle impacchettabili e orientabili in alluminio da 80 mm, collegate da cordoncini in poliestere. Le lamelle possono essere posizionate dalla chiusura totale all'apertura completa, offrendo un buon oscuramento e una regolazione precisa della luce diurna.\n\nLe lamelle e la struttura sono robuste e adatte a diversi climi, proteggono da sole e intemperie e, grazie a una guarnizione longitudinale, attenuano anche il rumore.\n\nGuide: guida in alluminio estruso da 17x20 mm con guarnizione insonorizzante e terminale in alluminio estruso. Il cassonetto in acciaio zincato (57x51) contiene i meccanismi di salita, discesa, orientamento e/o argano.\n\nScorrimento: pivotti laterali in PVC, disposti in modo alternato sulle lamelle, per aumentare la stabilità al vento.\n\nMovimentazione: il prodotto è disponibile con comando ad argano (L80A) oppure con motoriduttore (L80M). La pulsantiera non è inclusa in nessuna delle due versioni.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo",
+      "valore": "Frangisole impacchettabile e orientabile"
+    },
+    {
+      "etichetta": "Materiale lamelle",
+      "valore": "Lamiera di alluminio"
+    },
+    {
+      "etichetta": "Larghezza lamelle",
+      "valore": "80 mm"
+    },
+    {
+      "etichetta": "Collegamento lamelle",
+      "valore": "Cordoncini in poliestere"
+    },
+    {
+      "etichetta": "Guida",
+      "valore": "Alluminio estruso 17x20 mm, guarnizione insonorizzante, terminale in alluminio estruso"
+    },
+    {
+      "etichetta": "Cassonetto",
+      "valore": "Acciaio zincato 57x51"
+    },
+    {
+      "etichetta": "Pivotti laterali",
+      "valore": "PVC, disposti in modo alternato"
+    },
+    {
+      "etichetta": "Versione L80A",
+      "valore": "Comando ad argano, con asta oscillante di rinvio a snodo 45° e gruppo finecorsa"
+    },
+    {
+      "etichetta": "Versione L80M",
+      "valore": "Motoriduttore con doppio finecorsa (salita e discesa), pulsante di emergenza, connettore e presa; pulsantiera esclusa"
+    },
+    {
+      "etichetta": "Guarnizione",
+      "valore": "Longitudinale, per attenuare il rumore"
+    }
+  ],
+  "colori": [
+    "RAL 9010",
+    "RAL 9001",
+    "RAL 7035",
+    "RAL 6005",
+    "RAL 1001",
+    "RAL 8014",
+    "RAL 7016",
+    "RAL 9006",
+    "RAL 9007",
+    "RAL 1035"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/L80.jpg?itok=XebepdhK",
+  "documenti": [
+    {
+      "titolo": "Certificazione valore Gtot Frangisole L80",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/GTOT_Frangisole.%20%281%29.pdf"
+    },
+    {
+      "titolo": "Capitolato Frangisole L80 Argano",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Frangisole_L80A.pdf"
+    },
+    {
+      "titolo": "Capitolato Frangisole L80 Motore",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Frangisole_L80M.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

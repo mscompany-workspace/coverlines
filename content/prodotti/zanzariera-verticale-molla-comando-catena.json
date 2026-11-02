@@ -1,0 +1,95 @@
+{
+  "slug": "zanzariera-verticale-molla-comando-catena",
+  "categoria": "zanzariere",
+  "titolo": "Zanzariera verticale a molla con comando a catena",
+  "nome": "Molla Catena",
+  "descrizione": "Si tratta di una zanzariera a molla a scorrimento verticale, con cassonetto da 50 mm, azionata tramite comando a catena dotato di chiusura magnetica. La guida telescopica facilita l'installazione anche quando il vano non è perfettamente squadrato.\n\nSu richiesta è disponibile un doppio comando (optional), con una catena posizionata all'interno del vano e una all'esterno. È inoltre possibile aggiungere un sistema di blocco della catena (optional).\n\nLa rete è in fibra di vetro e viene fornita di serie in colore grigio, mentre su richiesta è disponibile in nero. Per una maggiore visibilità è possibile scegliere una rete in fibra di vetro a strisce bianche e nere. Sono inoltre disponibili reti specifiche da inserire in questa zanzariera: la rete antibatterica Sunox, che filtra e riduce la crescita di batteri e virus, e la rete panorama, che garantisce una maggiore nitidezza.\n\nLa struttura in alluminio può essere realizzata nei colori standard (bianco, avorio, marrone, verde, testa di moro, bronzo, argento), oppure con effetto puntinato o effetto legno.\n\nIl prodotto è conforme alla direttiva europea 2006/42/CE e rispetta i requisiti essenziali della norma UNI EN 13561:2004.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipologia",
+      "valore": "Zanzariera a molla a scorrimento verticale"
+    },
+    {
+      "etichetta": "Cassonetto",
+      "valore": "50 mm"
+    },
+    {
+      "etichetta": "Comando",
+      "valore": "A catena con chiusura magnetica"
+    },
+    {
+      "etichetta": "Guida",
+      "valore": "Telescopica, adatta anche in caso di fuori squadro"
+    },
+    {
+      "etichetta": "Doppio comando",
+      "valore": "Optional: una catena interna e una esterna al vano"
+    },
+    {
+      "etichetta": "Sistema blocco catena",
+      "valore": "Optional"
+    },
+    {
+      "etichetta": "Materiale rete",
+      "valore": "Fibra di vetro"
+    },
+    {
+      "etichetta": "Colore rete di serie",
+      "valore": "Grigio"
+    },
+    {
+      "etichetta": "Colore rete a richiesta",
+      "valore": "Nero"
+    },
+    {
+      "etichetta": "Rete alternativa",
+      "valore": "Fibra di vetro a strisce bianco/nero"
+    },
+    {
+      "etichetta": "Reti speciali",
+      "valore": "Sunox (antibatterica), Panorama"
+    },
+    {
+      "etichetta": "Materiale struttura",
+      "valore": "Alluminio"
+    },
+    {
+      "etichetta": "Finiture struttura",
+      "valore": "Colori standard, effetto puntinato, effetto legno"
+    },
+    {
+      "etichetta": "Conformità",
+      "valore": "Direttiva 2006/42/CE"
+    },
+    {
+      "etichetta": "Norma di riferimento",
+      "valore": "UNI EN 13561:2004"
+    }
+  ],
+  "colori": [
+    "Bianco",
+    "Avorio",
+    "Marrone",
+    "Verde",
+    "Testa di moro",
+    "Bronzo",
+    "Argento"
+  ],
+  "immagine": "img/zanzariere/catena.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/MOLLA%20CATENA-1.jpg?itok=CTn2aEu-",
+  "documenti": [
+    {
+      "titolo": "Dichiarazione di Conformità Zanzariera Molla Catena",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazione_Avvolgente_11.pdf"
+    },
+    {
+      "titolo": "Istruzioni di Uso e Manutenzione Zanzariera Molla Catena",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Uso_Manutenzione_Molla%20Catena.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

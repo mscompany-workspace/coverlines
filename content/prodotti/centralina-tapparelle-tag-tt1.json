@@ -1,0 +1,36 @@
+{
+  "slug": "centralina-tapparelle-tag-tt1",
+  "categoria": "automazioni",
+  "titolo": "CENTRALINA TAG TT1",
+  "nome": "CENTRALINA TAG TT1",
+  "descrizione": "Centralina con ricevente radio integrata 433,92 MHz per il comando di motori fino a 500 W.\n\nMassima flessibilità nel comando motore con 2 modalità di memorizzazione dei trasmettitori:\n\nModo 1: salita-stop-discesa;\n\nModo 2: passo passo-solo salita discesa- stop.\n\nPossibilità di memorizzare fino a 30 trasmettitori.\n\nDotata di morsettiera di collegamento interna.",
+  "caratteristiche": [
+    {
+      "etichetta": "Ricevente radio integrata",
+      "valore": "433,92 MHz"
+    },
+    {
+      "etichetta": "Potenza massima motori",
+      "valore": "500 W"
+    },
+    {
+      "etichetta": "Modalità di memorizzazione",
+      "valore": "Modo 1: salita-stop-discesa; Modo 2: passo passo-solo salita discesa-stop"
+    },
+    {
+      "etichetta": "Trasmettitori memorizzabili",
+      "valore": "Fino a 30"
+    },
+    {
+      "etichetta": "Morsettiera",
+      "valore": "Di collegamento interna"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/nice%20TT1N.jpg?itok=kVegFY2n",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

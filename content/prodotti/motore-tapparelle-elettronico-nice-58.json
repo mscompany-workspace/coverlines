@@ -1,0 +1,40 @@
+{
+  "slug": "motore-tapparelle-elettronico-nice-58",
+  "categoria": "automazioni",
+  "titolo": "MOTORE NICE ELETTRONICO RADIO CON DIAMETRO 58",
+  "nome": "MOTORE NICE ERA MAT LA Ø 58 mm",
+  "descrizione": "Motore con finecorsa elettronico, ricevente radio integrata e tecnologia TTBus a 3 fili che permette di gestire il movimento del motore attraverso un comando di bassa tensione. Diametro è da 58 mm e azionamento con telecomando (non incluso). Gli adattatori e i supporti sono compresi.\n\nFacile regolazione del finecorsa in modalità automatica, semiautomatica o manuale.\n\nComodo feedback di ritorno attraverso il movimento dell’avvolgibile.\n\nProgrammazione a livelli: veloce e sicura.\n\nBlocco della memoria per impedire memorizzazioni accidentali.\n\nRegolazione di più quote intermedie di apertura.\n\nSicurezza per l’automazione.\n\nPossibilità di collegare e comandare in parallelo più motori da un unico punto grazie alla scheda elettronica integrata.\n\nMassima precisione delle posizioni dell’avvolgibile",
+  "caratteristiche": [
+    {
+      "etichetta": "Diametro",
+      "valore": "58 mm"
+    },
+    {
+      "etichetta": "Finecorsa",
+      "valore": "Elettronico"
+    },
+    {
+      "etichetta": "Ricevente",
+      "valore": "Radio integrata"
+    },
+    {
+      "etichetta": "Tecnologia di comando",
+      "valore": "TTBus a 3 fili, comando di bassa tensione"
+    },
+    {
+      "etichetta": "Azionamento",
+      "valore": "Telecomando (non incluso)"
+    },
+    {
+      "etichetta": "Adattatori e supporti",
+      "valore": "Compresi"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/11.-ERA-MAT-LA.jpg?itok=7S0HVz5n",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

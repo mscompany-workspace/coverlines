@@ -1,0 +1,88 @@
+{
+  "slug": "tapparelle-blindate-motorizzate-orientabili-coverblind",
+  "categoria": "tapparelle",
+  "titolo": "Tapparella blindata in alluminio estruso classe 4",
+  "nome": "Coverblind",
+  "descrizione": "È una tapparella blindata di classe 4, in alluminio estruso, pensata per durare nel tempo. Da chiusa oscura l'ambiente e garantisce privacy e sicurezza. Lo spazio di 2 cm tra le stecche la rende anche un frangisole, che lascia passare la luce senza sollevarla. Le doghe misurano 14x54 e il peso è di circa 15 kg al m².\n\nLa movimentazione avviene tramite motoriduttore. Il motore con la portata adatta viene scelto al momento dell'ordine, in base alle misure fornite. Prima del montaggio vanno verificati portata e diametro del motore, per acquistare gli accessori corretti.\n\nCome optional è disponibile una coppia di kit anti-sollevamento e catenacci di sicurezza, indispensabili per ottenere la certificazione di tapparella blindata. In fase di ordine, l'altezza va indicata con 10 cm in più rispetto alla luce.",
+  "caratteristiche": [
+    {
+      "etichetta": "Classe antieffrazione",
+      "valore": "Classe 4 (classe 3 per il modello base)"
+    },
+    {
+      "etichetta": "Materiale",
+      "valore": "Alluminio estruso"
+    },
+    {
+      "etichetta": "Misura nominale doghe",
+      "valore": "14x54"
+    },
+    {
+      "etichetta": "Peso al mq",
+      "valore": "Circa 15 kg"
+    },
+    {
+      "etichetta": "Spazio tra le stecche",
+      "valore": "2 cm"
+    },
+    {
+      "etichetta": "Movimentazione",
+      "valore": "Motoriduttore (portata e diametro da verificare prima dell'installazione)"
+    },
+    {
+      "etichetta": "Maggiorazione in altezza",
+      "valore": "10 cm in più rispetto alla luce"
+    },
+    {
+      "etichetta": "Optional",
+      "valore": "Coppia di kit anti-sollevamento e catenacci di sicurezza"
+    },
+    {
+      "etichetta": "Funzioni",
+      "valore": "Blindata, Oscurante"
+    }
+  ],
+  "colori": [
+    "9010 bianco goffrato",
+    "1013 avorio goffrato",
+    "6005 verde goffrato",
+    "7001 grigio goffrato",
+    "Grigio ferro",
+    "Marrone scuro",
+    "8019 marrone goffrato",
+    "9005 nero goffrato",
+    "Altri colori su richiesta"
+  ],
+  "immagine": "img/tapparelle/coverblind.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/coverblind-1.jpg?itok=HWBK9RlK",
+  "documenti": [
+    {
+      "titolo": "Schema per il rilevamento misure e tabella diametri di avvolgimento",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/schema%20misure%20e%20diametri_0.pdf"
+    },
+    {
+      "titolo": "Certificazione Antieffrazione Classe 3 - Coverblind",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificato%20RC%20N%C2%B0%20IT%200128.pdf"
+    },
+    {
+      "titolo": "Scheda Tecnica Classe 3 - Coverblind",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/IT%200128_Scheda%20tecnica.pdf"
+    },
+    {
+      "titolo": "Certificazione Antieffrazione Classe 4 - Coverblind Plus",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificato%20RC%20N%C2%B0%20IT%200129.pdf"
+    },
+    {
+      "titolo": "Scheda Tecnica Classe 4 - Coverblind Plus",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/IT%200129_Scheda%20tecnica.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

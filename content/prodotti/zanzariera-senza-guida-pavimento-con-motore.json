@@ -1,0 +1,54 @@
+{
+  "slug": "zanzariera-senza-guida-pavimento-con-motore",
+  "categoria": "zanzariere",
+  "titolo": "Zanzariera senza guida inferiore con motore",
+  "nome": "Motoscenica",
+  "descrizione": "Motoscenica è una zanzariera a motorizzazione elettrica, progettata per automatizzare l'apertura e la chiusura in modo affidabile e con funzionamento silenzioso.\n\nNon prevede una guida a pavimento e occupa solo due lati del vano. Nella versione standard si apre con una leggera pressione sulla barra maniglia e si richiude automaticamente. Sono disponibili accessori opzionali che permettono diverse modalità di apertura, per adattarsi alle diverse esigenze del cliente.\n\nÈ realizzabile con una sola anta, dotata di un motore, oppure con due ante, dotate ciascuna di un motore. L'ingombro complessivo è di 70 mm.\n\nIl prodotto è dichiarato conforme alla direttiva europea 2006/42/CE e ai requisiti essenziali della norma UNI EN 13561:2004.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo di motorizzazione",
+      "valore": "Motore elettrico"
+    },
+    {
+      "etichetta": "Guida inferiore",
+      "valore": "Assente"
+    },
+    {
+      "etichetta": "Lati del vano occupati",
+      "valore": "Due"
+    },
+    {
+      "etichetta": "Configurazioni",
+      "valore": "Una anta con un motore oppure due ante con due motori"
+    },
+    {
+      "etichetta": "Ingombro totale",
+      "valore": "70 mm"
+    },
+    {
+      "etichetta": "Apertura nella versione standard",
+      "valore": "Spinta leggera sulla barra maniglia, con richiusura automatica"
+    },
+    {
+      "etichetta": "Apertura",
+      "valore": "Optional per modalità di apertura diverse"
+    },
+    {
+      "etichetta": "Conformità",
+      "valore": "Direttiva 2006/42/CE; norma UNI EN 13561:2004"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "",
+  "documenti": [
+    {
+      "titolo": "Dichiarazione di Conformità Zanzariera Motoscenica",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazione_Avvolgente_25.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

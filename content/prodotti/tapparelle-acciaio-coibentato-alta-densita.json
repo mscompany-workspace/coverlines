@@ -1,0 +1,113 @@
+{
+  "slug": "tapparelle-acciaio-coibentato-alta-densita",
+  "categoria": "tapparelle",
+  "titolo": "Tapparella in acciaio coibentato alta densità con doghe da 12x55mm",
+  "nome": "Tapparella Acciaio 12x55 Alta Densità",
+  "descrizione": "Si tratta di una tapparella in acciaio con coibentazione ad alta densità. All'interno delle doghe c'è più schiuma di poliuretano espanso rispetto alla versione a media densità, il che migliora l'isolamento termico e la resistenza della tapparella.\n\nLe doghe hanno la misura standard 12x55 mm e l'asolatura è di 17 mm. Il peso è di 11 kg al m² e la larghezza massima di realizzazione consigliata è 4000 mm.\n\nLa tapparella è disponibile nei colori standard, con effetto marmo o con effetto legno. Di serie include tappi conici da 28 mm e un terminale in gomma nero. Su richiesta, con un sovrapprezzo, è possibile avere un terminale in alluminio abbinabile al colore della tapparella.\n\nMovimentazione: poiché l'attacco con cintino non è possibile, la tapparella viene fornita con molle in acciaio per l'attacco al rullo. Come optional sono disponibili catenaccioli per il terminale, catenaccioli ad incasso (inseriti all'interno della doga) o una serratura su terminale, per aumentare la sicurezza.\n\nCertificazioni: il prodotto è conforme alla direttiva 2006/42/CE e rispetta i requisiti essenziali del Regolamento UE 305/2011 e della norma EN 13561:2004+A1:2008.\n\nManuali e capitolato: sono disponibili le istruzioni per installazione e manutenzione, oltre alle voci di capitolato per gli addetti ai lavori.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Acciaio"
+    },
+    {
+      "etichetta": "Tipo di coibentazione",
+      "valore": "Alta densità (schiuma di poliuretano espanso)"
+    },
+    {
+      "etichetta": "Misura nominale doghe",
+      "valore": "12x55 mm"
+    },
+    {
+      "etichetta": "Asolatura",
+      "valore": "17 mm"
+    },
+    {
+      "etichetta": "Peso al mq",
+      "valore": "11 kg"
+    },
+    {
+      "etichetta": "Larghezza massima consigliata",
+      "valore": "4000 mm"
+    },
+    {
+      "etichetta": "Tappi",
+      "valore": "Conici da 28 mm (di serie)"
+    },
+    {
+      "etichetta": "Terminale di serie",
+      "valore": "Gomma, colore nero"
+    },
+    {
+      "etichetta": "Terminale opzionale",
+      "valore": "Alluminio (con maggiorazione di prezzo)"
+    },
+    {
+      "etichetta": "Attacco al rullo",
+      "valore": "Molle in acciaio (attacco con cintino non possibile)"
+    },
+    {
+      "etichetta": "Optional",
+      "valore": "Catenaccioli, catenaccioli ad incasso, serratura su terminale"
+    },
+    {
+      "etichetta": "Normative",
+      "valore": "Direttiva 2006/42/CE; Regolamento UE 305/2011; EN 13561:2004+A1:2008"
+    }
+  ],
+  "colori": [
+    "Colori standard",
+    "Effetto marmo",
+    "Effetto legno",
+    "Terminali in alluminio: bianco",
+    "Terminali in alluminio: avorio",
+    "Terminali in alluminio: marrone",
+    "Terminali in alluminio: nero",
+    "Terminali in alluminio: testa di moro",
+    "Terminali in alluminio: verde",
+    "Terminali in alluminio: grigio",
+    "Terminali in alluminio: argento",
+    "Terminali in alluminio: bronzo"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/acciaio-12x55-alta-densit%C3%A0.jpg?itok=lpnh_u5Y",
+  "documenti": [
+    {
+      "titolo": "Schema per il rilevamento misure e tabella diametri di avvolgimento",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/schema%20misure%20e%20diametri_10.pdf"
+    },
+    {
+      "titolo": "Abbinamento Colore Tapparella con Colore terminale in Alluminio",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/ABBINAMENTO%20TERMINALI%20IN%20ALLUMINIO_15.pdf"
+    },
+    {
+      "titolo": "Dichiarazione di conformità Tapparella Acciaio Alta Densità",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificato_Avvolgibile_Acciaio_AD_0.pdf"
+    },
+    {
+      "titolo": "Certificazione Valore Gtot Tapparella Acciaio Alta Densità",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/acciaio_dich_prestazione_0.pdf"
+    },
+    {
+      "titolo": "Istruzioni di installazione",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Avvolgibili_Istallazione%20%281%29_4.pdf"
+    },
+    {
+      "titolo": "Uso e manutenzione",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Avvolgibili_Uso_Manutenzione_7.pdf"
+    },
+    {
+      "titolo": "Capitolato Tapparella Acciaio Alta Densità",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Tapparella_Acciaio_12x55_AD_0.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

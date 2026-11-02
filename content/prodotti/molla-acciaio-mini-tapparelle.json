@@ -1,0 +1,34 @@
+{
+  "slug": "molla-acciaio-mini-tapparelle",
+  "categoria": "accessori",
+  "titolo": "MOLLA IN ACCIAIO INOX",
+  "nome": "MOLLA IN ACCIAIO INOX",
+  "descrizione": "Molla in acciaio inox verniciato di colore grigio.\n\nDisponibile con lama da 14 mm per tapparelle standard e lama da 9 mm per tapparelle mini.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Acciaio inox verniciato"
+    },
+    {
+      "etichetta": "Colore",
+      "valore": "Grigio"
+    },
+    {
+      "etichetta": "Lama 14 mm",
+      "valore": "Per tapparelle standard"
+    },
+    {
+      "etichetta": "Lama 9 mm",
+      "valore": "Per tapparelle mini"
+    }
+  ],
+  "colori": [
+    "Grigio"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/molla_acciaio_9.jpg?itok=ZNl-lb2-",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

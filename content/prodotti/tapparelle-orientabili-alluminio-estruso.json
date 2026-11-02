@@ -1,0 +1,77 @@
+{
+  "slug": "tapparelle-orientabili-alluminio-estruso",
+  "categoria": "tapparelle",
+  "titolo": "Avvolgibile in alluminio estruso con lamelle orientabili",
+  "nome": "Girasole",
+  "descrizione": "Girasole è una tapparella orientabile che si avvolge del tutto e oscura come una tapparella tradizionale, ma permette di regolare la luce come un frangisole. Le lamelle mobili in alluminio estruso consentono di regolare luce e flusso d'aria e anche di oscurare l'ambiente. Il prodotto unisce quindi le caratteristiche di tapparella e frangisole ed è indicato per qualsiasi tipo di edificio.\n\nIl montaggio è quello classico di una tapparella normale, quindi può sostituire una tapparella tradizionale. La movimentazione avviene con motoriduttore; la manovra a cinghia è sconsigliata, perché solo il motore permette le diverse posizioni del telo. Il motore indicato è a radiocomando, con tre finecorsa che memorizzano le posizioni.\n\nAbbinando Girasole alla Guida Incasso 80 si ottiene un sistema integrato di tapparella, frangisole e zanzariera. Sono compatibili diversi tipi di zanzariera: Plissè, Kit Quadra 45 ed Evotwin.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo",
+      "valore": "Tapparella orientabile con lamelle mobili"
+    },
+    {
+      "etichetta": "Materiale",
+      "valore": "Alluminio estruso"
+    },
+    {
+      "etichetta": "Profilo",
+      "valore": "Alluminio 13X55"
+    },
+    {
+      "etichetta": "Montaggio",
+      "valore": "Classico, in sostituzione di una tapparella tradizionale"
+    },
+    {
+      "etichetta": "Movimentazione",
+      "valore": "Motoriduttore con radiocomando e tre finecorsa (manovra a cinghia sconsigliata)"
+    },
+    {
+      "etichetta": "Rilevamento misure",
+      "valore": "Larghezza = misura finita di realizzazione; altezza = luce architettonica del vano"
+    },
+    {
+      "etichetta": "Telo sdoppiato",
+      "valore": "Obbligatorio con rinforzo centrale oltre 165 cm di larghezza"
+    },
+    {
+      "etichetta": "Normative",
+      "valore": "Direttiva 2006/42/CE; UNI EN 13561:2004"
+    }
+  ],
+  "colori": [
+    "Bianco goffrato",
+    "Avorio goffrato",
+    "Verde goffrato",
+    "Marrone goffrato",
+    "Grigio goffrato",
+    "Effetto legno Renolit scuro",
+    "Effetto legno Renolit chiaro"
+  ],
+  "immagine": "img/tapparelle/girasole.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/immagine.png?itok=OpiC2b1a",
+  "documenti": [
+    {
+      "titolo": "Schema per il rilevamento misure e tabella diametri di avvolgimento",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/schema%20misure%20e%20diametri.pdf"
+    },
+    {
+      "titolo": "Orientabile - Uso e Manutenzione (istruzioni per l'installazione e manuale)",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Orientabile_Uso_Manutenzione_0.pdf"
+    },
+    {
+      "titolo": "Capitolato Girasole",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Tapparella_Orientabile_0.pdf"
+    },
+    {
+      "titolo": "Certificato Avvolgibile Girasole",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificato_Avvolgibile_Girasole_0.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

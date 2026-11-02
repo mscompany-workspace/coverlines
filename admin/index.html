@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Gestione sito — Coverlines</title>
+</head>
+<body>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script src="https://unpkg.com/decap-cms@3.8.3/dist/decap-cms.js"></script>
+<script>
+  // dopo il primo accesso riporta l'utente al pannello
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on('init', function (user) {
+      if (!user) {
+        window.netlifyIdentity.on('login', function () { document.location.href = '/admin/'; });
+      }
+    });
+  }
+</script>
+</body>
+</html>

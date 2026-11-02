@@ -1,0 +1,30 @@
+{
+  "slug": "guidacinghia-pvc-verticale-tapparelle",
+  "categoria": "accessori",
+  "titolo": "GUIDACINGHIA IN PVC VERTICALE",
+  "nome": "GUIDACINGHIA IN PVC VERTICALE",
+  "descrizione": "Guida cinghia in resina acetalica bianco, per cintino 20-22 mm.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Resina acetalica"
+    },
+    {
+      "etichetta": "Colore",
+      "valore": "Bianco"
+    },
+    {
+      "etichetta": "Per cintino",
+      "valore": "20-22 mm"
+    }
+  ],
+  "colori": [
+    "Bianco"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/guida%20cinghia%20verticale.jpg?itok=sqjvGLdC",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

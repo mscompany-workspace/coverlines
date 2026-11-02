@@ -1,0 +1,62 @@
+{
+  "slug": "cassonetto-avvolgibili-standard",
+  "categoria": "cassonetti",
+  "titolo": "Cassonetto standard in polistirolo",
+  "nome": "Cassonetto Linea Base",
+  "descrizione": "È il cassonetto standard in polistirene espanso rinforzato con gabbia in ferro. La tramatura sulla parte esterna del cassonetto favorisce l'aggrappatura dell'intonaco. È disponibile con base da 25, 30 e 35 cm con altezza 25 o 30 cm. Di serie viene fornito insieme al cassonetto un supporto per cuscinetto e il guida cielino in PVC di colore bianco.\n\nAl momento dell'ordine è possibile fornire le misure in due modi: misura finita di realizzazione del cassonetto oppure misura luce vano grezza.\n\nI tipi di manovra possibili per questo cassonetto sono: cinghia, argano, motore, asta oscillante e cordone.\n\nPer le dimensioni appoggio in base alla manovra scelta, vedere la Tabella Sistemi di Manovra.\n\nPer le caratteristiche del cassonetto vedere la Tabella dimensioni del cassonetto.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Polistirene espanso rinforzato con gabbia in ferro"
+    },
+    {
+      "etichetta": "Finitura esterna",
+      "valore": "Tramatura per l'aggrappatura dell'intonaco"
+    },
+    {
+      "etichetta": "Base disponibile",
+      "valore": "25, 30 e 35 cm"
+    },
+    {
+      "etichetta": "Altezza disponibile",
+      "valore": "25 o 30 cm"
+    },
+    {
+      "etichetta": "Dotazione di serie",
+      "valore": "Supporto per cuscinetto e guida cielino in PVC bianco"
+    },
+    {
+      "etichetta": "Tipi di manovra",
+      "valore": "Cinghia, argano, motore, asta oscillante, cordone"
+    },
+    {
+      "etichetta": "Misure in fase d'ordine",
+      "valore": "Misura finita di realizzazione oppure misura luce vano grezza"
+    }
+  ],
+  "colori": [
+    "Guida cielino in PVC: bianco"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/5.%20cassonetto%20linea%20base_0.jpg?itok=pON_Le1w",
+  "documenti": [
+    {
+      "titolo": "Tabella dimensioni del cassonetto",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/1.%20tabella%20LINEA%20BASE.pdf"
+    },
+    {
+      "titolo": "Tabella sistema di manovra",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/9.%20in%20ogni%20prodotto%20-%20TABELLA%20SISTEMI%20DI%20MANOVRA.pdf"
+    },
+    {
+      "titolo": "Certificazione Trasmittanza Termica Cassonetto Linea Base",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/CERTIFICAZIONE%20TERMICA%20LINEA%20BASE.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "zanzariera-telaio-fisso",
+  "categoria": "zanzariere",
+  "titolo": "Zanzariera a telaio fisso per zone ventilate",
+  "nome": "Fissa",
+  "descrizione": "La Fissa è una zanzariera a schermo fisso con un unico profilo perimetrale in alluminio. È pensata per zone ventilate e per vani che non richiedono zanzariere apribili.\n\nLa rete standard è in fibra di vetro grigia, disponibile su richiesta anche in colore nero. Per una maggiore visibilità è possibile scegliere una rete a strisce bianche e nere, sempre in fibra di vetro. Per una resistenza superiore sono disponibili reti in alluminio o in acciaio inox. Per chi ha animali domestici è disponibile la rete Pet Screen.\n\nÈ disponibile anche una versione con profilo magnetico, pensata per un fissaggio semplice su cancelli e infissi in metallo.\n\nLa struttura in alluminio è disponibile nei colori standard bianco, avorio, marrone, verde, nero, argento e bronzo, oppure con finitura effetto puntinato o effetto legno.\n\nIl telaio fisso può essere realizzato in diverse forme: cerchio, triangolo, trapezio o quadrato, con un utilizzo molto versatile. In fase di progettazione è utile fornire una sagoma della forma del telaio per garantire una realizzazione precisa.\n\nPer l'installazione sono documentate le modalità con attacco a muro, attacco a coccinella e versione standard.\n\nLa zanzariera Fissa è dichiarata conforme alla direttiva europea 2006/42/CE e ai requisiti essenziali della norma UNI EN 13561:2004.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipologia",
+      "valore": "Zanzariera a schermo fisso"
+    },
+    {
+      "etichetta": "Profilo",
+      "valore": "Unico profilo perimetrale in alluminio"
+    },
+    {
+      "etichetta": "Rete standard",
+      "valore": "Fibra di vetro grigia"
+    },
+    {
+      "etichetta": "Rete su richiesta",
+      "valore": "Fibra di vetro nera"
+    },
+    {
+      "etichetta": "Rete a strisce",
+      "valore": "Fibra di vetro bianco/nero (maggiore visibilità)"
+    },
+    {
+      "etichetta": "Reti alternative",
+      "valore": "Alluminio, acciaio inox, Pet Screen"
+    },
+    {
+      "etichetta": "Versione magnetica",
+      "valore": "Disponibile, con profilo calamitato"
+    },
+    {
+      "etichetta": "Forme del telaio",
+      "valore": "Cerchio, triangolo, trapezio, quadrato"
+    },
+    {
+      "etichetta": "Tipi di attacco",
+      "valore": "A muro, a coccinella, magnetico, giunto regolabile"
+    },
+    {
+      "etichetta": "Zone di utilizzo",
+      "valore": "Zone ventilate, vani senza necessità di apertura"
+    },
+    {
+      "etichetta": "Conformità",
+      "valore": "Direttiva 2006/42/CE; norma UNI EN 13561:2004"
+    }
+  ],
+  "colori": [
+    "Bianco",
+    "Avorio",
+    "Marrone",
+    "Verde",
+    "Nero",
+    "Argento",
+    "Bronzo",
+    "Effetto puntinato",
+    "Effetto legno"
+  ],
+  "immagine": "img/zanzariere/skermo.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/fissa.jpg?itok=ffIk1-iv",
+  "documenti": [
+    {
+      "titolo": "Dichiarazione di conformità zanzariera Fissa",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificazioni_Pannelli_1.pdf"
+    },
+    {
+      "titolo": "Istruzioni Fissa attacco a muro",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Fissa_Attacco_a_Muro.pdf"
+    },
+    {
+      "titolo": "Istruzioni Fissa attacco a coccinella",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Fissa_Coccinella.pdf"
+    },
+    {
+      "titolo": "Istruzioni Fissa standard",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Fissa_Standard.pdf"
+    },
+    {
+      "titolo": "Capitolato zanzariera Fissa",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Zanzariera_Fissa.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

@@ -1,0 +1,119 @@
+# Pannello di gestione del sito Coverlines
+# I salvataggi scrivono su GitHub; Netlify ricostruisce e pubblica il sito.
+
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/uploads"   # dove finiscono i file caricati
+public_folder: "/uploads"        # come li richiama il sito
+
+locale: "it"
+publish_mode: simple
+site_url: https://timely-sunflower-28d156.netlify.app
+
+collections:
+  - name: "prodotti"
+    label: "Prodotti"
+    label_singular: "Prodotto"
+    folder: "content/prodotti"
+    create: true
+    extension: "json"
+    format: "json"
+    slug: "{{slug}}"
+    identifier_field: titolo
+    summary: "{{titolo}}  —  {{categoria}}"
+    sortable_fields: ['titolo', 'categoria']
+    view_groups:
+      - label: "Categoria"
+        field: categoria
+    search_fields: ['titolo', 'nome', 'descrizione']
+    fields:
+      - label: "Titolo del prodotto"
+        name: "titolo"
+        widget: "string"
+        hint: "Il titolo grande della pagina ed è anche il titolo su Google."
+
+      - label: "Nome commerciale"
+        name: "nome"
+        widget: "string"
+        required: false
+        hint: "Nome breve del modello, es. Plissè, Evotwin. Appare sulle schede e nel modulo contatti."
+
+      - label: "Categoria"
+        name: "categoria"
+        widget: "select"
+        options:
+          - { label: "Zanzariere", value: "zanzariere" }
+          - { label: "Tapparelle", value: "tapparelle" }
+          - { label: "Frangisole", value: "frangisole" }
+          - { label: "Cassonetti coibentati", value: "cassonetti" }
+          - { label: "Automazioni", value: "automazioni" }
+          - { label: "Accessori tapparelle", value: "accessori" }
+
+      - label: "Descrizione"
+        name: "descrizione"
+        widget: "text"
+        required: false
+        hint: "Lascia una riga vuota tra un paragrafo e l'altro per andare a capo."
+
+      - label: "Caratteristiche tecniche"
+        name: "caratteristiche"
+        widget: "list"
+        required: false
+        label_singular: "Caratteristica"
+        summary: "{{fields.etichetta}}: {{fields.valore}}"
+        fields:
+          - { label: "Voce", name: "etichetta", widget: "string" }
+          - { label: "Valore", name: "valore", widget: "string" }
+
+      - label: "Colori disponibili"
+        name: "colori"
+        widget: "list"
+        required: false
+        field: { label: "Colore", name: "colore", widget: "string" }
+
+      - label: "Foto del prodotto"
+        name: "immagine_upload"
+        widget: "image"
+        required: false
+        hint: "Carica qui la foto. Se la lasci vuota resta quella attuale."
+
+      - label: "Documenti PDF"
+        name: "documenti"
+        widget: "list"
+        required: false
+        label_singular: "Documento"
+        summary: "{{fields.titolo}}"
+        hint: "Schede tecniche, manuali di installazione, certificazioni, capitolati."
+        fields:
+          - { label: "Titolo del documento", name: "titolo", widget: "string" }
+          - { label: "File PDF", name: "file", widget: "file", required: false }
+          - { label: "Oppure link esterno", name: "url", widget: "string", required: false }
+
+      - label: "Videoguida — link YouTube o Vimeo"
+        name: "videoguida_url"
+        widget: "string"
+        required: false
+        hint: "Incolla il link del video di installazione. È il modo consigliato."
+
+      - label: "Videoguida — file video"
+        name: "videoguida_file"
+        widget: "file"
+        required: false
+        hint: "Da usare solo per video brevi e leggeri (max ~50 MB). Per i video lunghi usa il link qui sopra."
+
+      - label: "Pubblicato sul sito"
+        name: "pubblicato"
+        widget: "boolean"
+        default: true
+        hint: "Disattiva per nascondere il prodotto senza eliminarlo."
+
+      - label: "Indirizzo della pagina"
+        name: "slug"
+        widget: "string"
+        hint: "Parte finale dell'indirizzo web. Cambiandola cambia il link della pagina."
+
+      # campi tecnici, non modificabili dal pannello
+      - { label: "Foto (catalogo)", name: "immagine", widget: "hidden", required: false }
+      - { label: "Foto (link originale)", name: "immagine_url", widget: "hidden", required: false }

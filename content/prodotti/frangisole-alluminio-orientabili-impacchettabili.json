@@ -1,0 +1,79 @@
+{
+  "slug": "frangisole-alluminio-orientabili-impacchettabili",
+  "categoria": "frangisole",
+  "titolo": "Frangisole a lamelle orientabili in lamiera di alluminio da 90 mm",
+  "nome": "Frangisole L 90",
+  "descrizione": "Il prodotto è pensato per chi vuole regolare luminosità e temperatura di un ambiente mantenendo un buon aspetto estetico.\n\nLe lamelle: il frangisole è formato da lamelle in alluminio da 90 mm, impacchettabili e orientabili. Sono collegate da cordoncini in poliestere e possono assumere qualsiasi posizione, dalla chiusura completa all'apertura totale, offrendo un buon oscuramento e una regolazione precisa della luce diurna.\n\nResistenza: le lamelle e la struttura sono robuste e adatte a diversi climi, proteggendo dal sole e dalle intemperie. Una guarnizione longitudinale contribuisce anche a ridurre il rumore.\n\nGuide: la guida è in alluminio estruso (17x20 mm) con guarnizione insonorizzante e terminale in alluminio estruso. Il cassonetto in acciaio zincato (57x51) contiene i meccanismi di salita e discesa, l'orientamento e il motoriduttore o l'argano. Pivot laterali in PVC, disposti alternatamente, facilitano lo scorrimento e aumentano la tenuta al vento.\n\nMovimentazione: sono disponibili due versioni, a comando con argano (L90A) o a comando con motoriduttore (L90M). La pulsantiera non è inclusa.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale lamelle",
+      "valore": "Lamiera di alluminio"
+    },
+    {
+      "etichetta": "Larghezza lamelle",
+      "valore": "90 mm"
+    },
+    {
+      "etichetta": "Collegamento lamelle",
+      "valore": "Cordoncini in poliestere"
+    },
+    {
+      "etichetta": "Guida",
+      "valore": "Alluminio estruso 17x20 mm con guarnizione insonorizzante"
+    },
+    {
+      "etichetta": "Terminale guida",
+      "valore": "Alluminio estruso"
+    },
+    {
+      "etichetta": "Cassonetto",
+      "valore": "Acciaio zincato 57x51"
+    },
+    {
+      "etichetta": "Pivot laterali",
+      "valore": "PVC, disposti alternatamente"
+    },
+    {
+      "etichetta": "Versione argano (L90A)",
+      "valore": "Argano con asta oscillante di rinvio con snodo a 45° e gruppo di finecorsa"
+    },
+    {
+      "etichetta": "Versione motoriduttore (L90M)",
+      "valore": "Motore con doppio finecorsa (salita e discesa), pulsante di emergenza, connettore e presa; pulsantiera esclusa"
+    }
+  ],
+  "colori": [
+    "RAL 9010",
+    "RAL 9001",
+    "RAL 7035",
+    "RAL 6005",
+    "RAL 1001",
+    "RAL 8014",
+    "RAL 7016",
+    "RAL 9006",
+    "RAL 9007",
+    "RAL 1035"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/L90.jpg?itok=5G0NUNu1",
+  "documenti": [
+    {
+      "titolo": "Certificazione valore GTOT Frangisole",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/GTOT_Frangisole..pdf"
+    },
+    {
+      "titolo": "Capitolato Frangisole L90 Argano",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Frangidole_L90M.pdf"
+    },
+    {
+      "titolo": "Capitolato Frangisole L90 Motore",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Frangisole_L90A.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

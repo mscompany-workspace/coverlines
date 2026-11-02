@@ -1,0 +1,56 @@
+{
+  "slug": "motore-tapparelle-ricevente-radio",
+  "categoria": "automazioni",
+  "titolo": "MOTORE NICE MECCANICO CON RICEVENTE RADIO INTEGRATA",
+  "nome": "MOTORE NICE ERA PLUS MH Ø 45 mm",
+  "descrizione": "Motore con finecorsa meccanico e manovra di soccorso manuale, ricevente radio integrata e tecnologia TTBus a due fili che permette di gestire il movimento del motore attraverso un comando passo-passo in bassa tensione e di collegare i sensori climatici via radio in modo semplice e intuitivo.\n\nManovra di soccorso manuale.\n\nIl motore, azionabile con telecomando, ha diametro da 45 mm. Gli adattatori e i supporti sono compresi.",
+  "caratteristiche": [
+    {
+      "etichetta": "Diametro",
+      "valore": "45 mm"
+    },
+    {
+      "etichetta": "Finecorsa",
+      "valore": "Meccanico, con regolazione intuitiva dei limiti di salita e discesa"
+    },
+    {
+      "etichetta": "Ricevente",
+      "valore": "Radio integrata"
+    },
+    {
+      "etichetta": "Tecnologia di comando",
+      "valore": "TTBus a due fili"
+    },
+    {
+      "etichetta": "Tipo di comando",
+      "valore": "Passo-passo in bassa tensione"
+    },
+    {
+      "etichetta": "Sensori climatici",
+      "valore": "Collegabili via radio"
+    },
+    {
+      "etichetta": "Manovra di soccorso",
+      "valore": "Manuale"
+    },
+    {
+      "etichetta": "Azionamento",
+      "valore": "Telecomando"
+    },
+    {
+      "etichetta": "Programmazione",
+      "valore": "A livelli, con blocco memoria contro memorizzazioni accidentali"
+    },
+    {
+      "etichetta": "Adattatori e supporti",
+      "valore": "Compresi"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/8.-ERA-PLUS-MH.jpg?itok=_07D2OJn",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

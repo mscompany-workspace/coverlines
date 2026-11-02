@@ -1,0 +1,83 @@
+{
+  "slug": "tapparelle-aria-luce-foro-largo-alluminio",
+  "categoria": "tapparelle",
+  "titolo": "Tapparella a foro largo in alluminio coibentato con doghe da 13x50mm",
+  "nome": "Aria Lux",
+  "descrizione": "Aria Lux è una tapparella a foro largo in alluminio, realizzata in lamiera pressopiegata con coibentazione di media densità. All'interno delle doghe c'è schiuma di poliuretano espanso, che migliora l'isolamento termico e aumenta la resistenza del prodotto. Le doghe sono di dimensione standard 13x50 mm e l'asolatura misura 5,5 mm in altezza e 180 mm in larghezza.\n\nGrazie al foro largo, rispetto alle tapparelle tradizionali, il prodotto è indicato per chi cerca maggiore aerazione e luminosità. Il peso è di circa 5 kg al metro quadro e la larghezza massima di realizzazione consigliata è di 4200 mm.\n\nIl prodotto è disponibile in colori standard, effetto marmo o effetto legno. Di serie include tappi conici da 28 mm e un terminale in gomma nera. Su richiesta, con un supplemento di prezzo, è possibile avere un terminale in alluminio da abbinare alla tapparella.\n\nMovimentazione: la tapparella è fornita con cintino per l'attacco al rullo, oppure con molle in acciaio se si richiede l'attacco per motore. Può essere movimentata con cintino, argano o motore, e per ciascun tipo sono disponibili gli accessori dedicati.\n\nCon il terminale in alluminio è possibile aggiungere, come optional, catenaccioli, catenaccioli ad incasso (inseriti all'interno della doga) oppure una serratura sul terminale.",
+  "caratteristiche": [
+    {
+      "etichetta": "Tipo",
+      "valore": "Tapparella a foro largo"
+    },
+    {
+      "etichetta": "Materiale",
+      "valore": "Alluminio, lamiera pressopiegata"
+    },
+    {
+      "etichetta": "Coibentazione",
+      "valore": "Media densità, schiuma di poliuretano espanso"
+    },
+    {
+      "etichetta": "Misura nominale doghe",
+      "valore": "13x50 mm"
+    },
+    {
+      "etichetta": "Asolatura",
+      "valore": "5,5 mm (altezza) x 180 mm (larghezza)"
+    },
+    {
+      "etichetta": "Peso al mq",
+      "valore": "Circa 5 kg/m²"
+    },
+    {
+      "etichetta": "Larghezza massima consigliata",
+      "valore": "4200 mm"
+    },
+    {
+      "etichetta": "Tappi",
+      "valore": "Conici da 28 mm (di serie)"
+    },
+    {
+      "etichetta": "Terminale di serie",
+      "valore": "Gomma, colore nero"
+    },
+    {
+      "etichetta": "Terminale opzionale",
+      "valore": "Alluminio (con maggiorazione di prezzo)"
+    },
+    {
+      "etichetta": "Movimentazione",
+      "valore": "Cintino, argano o motore"
+    },
+    {
+      "etichetta": "Optional",
+      "valore": "Catenaccioli, catenaccioli ad incasso, serratura su terminale"
+    }
+  ],
+  "colori": [
+    "Colori standard",
+    "Effetto marmo",
+    "Effetto legno",
+    "Terminali in alluminio: bianco",
+    "Terminali in alluminio: avorio",
+    "Terminali in alluminio: marrone",
+    "Terminali in alluminio: nero",
+    "Terminali in alluminio: testa di moro",
+    "Terminali in alluminio: verde",
+    "Terminali in alluminio: grigio",
+    "Terminali in alluminio: argento",
+    "Terminali in alluminio: bronzo"
+  ],
+  "immagine": "img/tapparelle/aria-lux.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/arialux_0.jpg?itok=KhU9qq6A",
+  "documenti": [
+    {
+      "titolo": "Certificazione Aria Lux - Valore GTOT",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/ARIA%20LUX.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

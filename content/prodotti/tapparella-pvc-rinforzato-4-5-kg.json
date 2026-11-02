@@ -1,0 +1,86 @@
+{
+  "slug": "tapparella-pvc-rinforzato-4-5-kg",
+  "categoria": "tapparelle",
+  "titolo": "Tapparella in plastica rinforzata da 4,5 kg/m2 con doghe da 13x55mm con rinforzi interni in fibra di vetro",
+  "nome": "Tapparella PVC Sole",
+  "descrizione": "Tapparella in PVC con profili rinforzati in fibra di vetro, che ne aumentano la resistenza e la stabilità di forma. È molto resistente agli agenti atmosferici.\n\nHa una buona capacità isolante grazie alla bassissima conducibilità termica.\n\nPeso di 4,5 kg/m², larghezza massima di realizzazione consigliata di 2400 mm, doghe da 13x55 mm e asolatura di 20 mm.\n\nDi serie vengono forniti tappi conici da 28 mm e terminale in gomma nera. Su richiesta, con sovrapprezzo, è disponibile un terminale in alluminio in vari colori.\n\nLa movimentazione può avvenire con cintino, argano o motore. Con cintino viene fornito un tratto di cintino per l'attacco al rullo; con motore vengono fornite molle in acciaio al posto del cintino.\n\nAccessori opzionali: catenacci per il terminale, serratura su terminale, catenacci ad incasso nelle doghe e rinforzi metallici interni per aumentare il peso.\n\nProdotto conforme alla direttiva 2006/42/CE e ai requisiti essenziali del Regolamento UE 305/2011, con riferimento alla norma EN 13561:2004+A1:2008.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "PVC con profili rinforzati in fibra di vetro"
+    },
+    {
+      "etichetta": "Misura nominale doghe",
+      "valore": "13x55 mm"
+    },
+    {
+      "etichetta": "Asolatura",
+      "valore": "20 mm"
+    },
+    {
+      "etichetta": "Peso al mq",
+      "valore": "4,5 kg/m²"
+    },
+    {
+      "etichetta": "Larghezza massima consigliata",
+      "valore": "2400 mm"
+    },
+    {
+      "etichetta": "Tappi",
+      "valore": "Conici da 28 mm (di serie)"
+    },
+    {
+      "etichetta": "Terminale di serie",
+      "valore": "Gomma, colore nero"
+    },
+    {
+      "etichetta": "Terminale opzionale",
+      "valore": "Alluminio (con sovrapprezzo)"
+    },
+    {
+      "etichetta": "Movimentazione",
+      "valore": "Cintino, argano o motore"
+    },
+    {
+      "etichetta": "Optional",
+      "valore": "Catenacci per terminale, serratura su terminale, catenacci ad incasso, rinforzi metallici interni"
+    },
+    {
+      "etichetta": "Normative",
+      "valore": "Direttiva 2006/42/CE; Regolamento UE 305/2011; EN 13561:2004+A1:2008"
+    }
+  ],
+  "colori": [
+    "Terminali in alluminio: bianco",
+    "Terminali in alluminio: avorio",
+    "Terminali in alluminio: marrone",
+    "Terminali in alluminio: nero",
+    "Terminali in alluminio: testa di moro",
+    "Terminali in alluminio: verde",
+    "Terminali in alluminio: grigio",
+    "Terminali in alluminio: argento",
+    "Terminali in alluminio: bronzo"
+  ],
+  "immagine": "img/tapparelle/pvc-sole.jpg",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/pvc%20sole.jpg?itok=0p4Ea21K",
+  "documenti": [
+    {
+      "titolo": "Abbinamento Colore Tapparella con Colore terminale in Alluminio",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/ABBINAMENTO%20TERMINALI%20IN%20ALLUMINIO_13.pdf"
+    },
+    {
+      "titolo": "Certificato PVC Sole",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Certificato-PVC_SOLE_0.pdf"
+    },
+    {
+      "titolo": "Valore GTOT PVC 38 - 45",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/Valore%20GTOT%20%20PVC%2038%20-%2045_0_1.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

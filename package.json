@@ -1,0 +1,11 @@
+{
+  "name": "coverlines-sito",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sito Coverlines: contenuti in content/, generazione statica in dist/",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node build.mjs && npx -y serve dist"
+  }
+}

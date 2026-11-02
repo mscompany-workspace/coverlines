@@ -1,0 +1,73 @@
+{
+  "slug": "tapparella-termica-alluminio-pvc-9x40",
+  "categoria": "tapparelle",
+  "titolo": "Tapparella termica con profilo in alluminio e PVC 9X40",
+  "nome": "Tapparella Thermic Alluminio/PVC 9x40",
+  "descrizione": "Il prodotto è una tapparella che unisce un profilo in PVC a uno in alluminio, con schiuma di poliuretano espanso ad alta densità.\n\nIn inverno, il profilo in PVC (lato interno) e quello in alluminio (lato esterno) formano un taglio termico che riduce la dispersione del calore e permette un risparmio energetico rilevante.\n\nIn estate, il profilo in PVC rivolto all'interno contribuisce a mantenere temperature interne più basse rispetto all'esterno, limitando la trasmissione del calore all'abitazione.\n\nLe doghe hanno misura mini 9x40 mm, il peso è di 6,5 kg/mq e la larghezza massima di realizzazione consigliata è 2900 mm.\n\nPer abbinare i colori si rimanda all'allegato dedicato \"Tabella Colori Esterno Alluminio/Interno PVC\".\n\nTerminali: di serie è fornito un terminale in gomma nera. Su richiesta, con sovrapprezzo, è disponibile un terminale in alluminio in vari colori, a cui si possono aggiungere catenaccioli o serratura (optional) per aumentare la sicurezza.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale profilo interno",
+      "valore": "PVC"
+    },
+    {
+      "etichetta": "Materiale profilo esterno",
+      "valore": "Alluminio"
+    },
+    {
+      "etichetta": "Isolante",
+      "valore": "Schiuma di poliuretano espanso ad alta densità"
+    },
+    {
+      "etichetta": "Misura nominale doghe",
+      "valore": "9x40 mm (mini)"
+    },
+    {
+      "etichetta": "Peso al mq",
+      "valore": "6,5 kg"
+    },
+    {
+      "etichetta": "Larghezza massima consigliata",
+      "valore": "2900 mm"
+    },
+    {
+      "etichetta": "Terminale di serie",
+      "valore": "Gomma, colore nero"
+    },
+    {
+      "etichetta": "Terminale opzionale",
+      "valore": "Alluminio (con maggiorazione di prezzo)"
+    },
+    {
+      "etichetta": "Optional",
+      "valore": "Catenaccioli per terminale, serratura su terminale (con terminale in alluminio)"
+    }
+  ],
+  "colori": [
+    "Terminali in alluminio: bianco",
+    "Terminali in alluminio: avorio",
+    "Terminali in alluminio: marrone",
+    "Terminali in alluminio: nero",
+    "Terminali in alluminio: testa di moro",
+    "Terminali in alluminio: verde",
+    "Terminali in alluminio: grigio",
+    "Terminali in alluminio: argento",
+    "Terminali in alluminio: bronzo"
+  ],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/thermic%209x40.jpg?itok=Gqiz_I7c",
+  "documenti": [
+    {
+      "titolo": "Schema per il rilevamento misure e tabella diametri di avvolgimento",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/schema%20misure%20e%20diametri_13.pdf"
+    },
+    {
+      "titolo": "Abbinamento Colore Tapparella con Colore terminale in Alluminio",
+      "file": "",
+      "url": "https://www.coverlines.it/sites/coverlines.it/files/product_downloads/ABBINAMENTO%20TERMINALI%20IN%20ALLUMINIO_10.pdf"
+    }
+  ],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

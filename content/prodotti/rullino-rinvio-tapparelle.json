@@ -1,0 +1,32 @@
+{
+  "slug": "rullino-rinvio-tapparelle",
+  "categoria": "accessori",
+  "titolo": "RULLINO DI RINVIO",
+  "nome": "RULLINO DI RINVIO",
+  "descrizione": "Rullino di rinvio verticale con diametro 30 mm in ferro zincato con rullino in nylon.",
+  "caratteristiche": [
+    {
+      "etichetta": "Materiale",
+      "valore": "Ferro zincato"
+    },
+    {
+      "etichetta": "Rullino",
+      "valore": "Nylon"
+    },
+    {
+      "etichetta": "Diametro",
+      "valore": "30 mm"
+    },
+    {
+      "etichetta": "Orientamento",
+      "valore": "Verticale"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/rullino_rinvio.jpg?itok=sFRMOCRe",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}

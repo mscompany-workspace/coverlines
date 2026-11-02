@@ -1,0 +1,32 @@
+{
+  "slug": "snodo-35-45-gradi",
+  "categoria": "accessori",
+  "titolo": "SNODO A 35° - 45 °",
+  "nome": "SNODO A 35° - 45 °",
+  "descrizione": "Snodo a 35° - 45° in acciaio nichelato, occhiolo in acciaio zincato e placca in zama nichelata.",
+  "caratteristiche": [
+    {
+      "etichetta": "Angolo",
+      "valore": "35° - 45°"
+    },
+    {
+      "etichetta": "Materiale snodo",
+      "valore": "Acciaio nichelato"
+    },
+    {
+      "etichetta": "Occhiolo",
+      "valore": "Acciaio zincato"
+    },
+    {
+      "etichetta": "Placca",
+      "valore": "Zama nichelata"
+    }
+  ],
+  "colori": [],
+  "immagine": "",
+  "immagine_url": "https://www.coverlines.it/sites/coverlines.it/files/styles/prod_x_756_/public/products/snodo_45.jpg?itok=EtcB5d8G",
+  "documenti": [],
+  "videoguida_url": "",
+  "videoguida_file": "",
+  "pubblicato": true
+}
