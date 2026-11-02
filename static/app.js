@@ -146,6 +146,25 @@
     sh.appendChild(bar);
   }
 
+
+  // Invito al pannello di gestione: il link ricevuto via email porta alla home
+  // con un token nell'indirizzo. Qui carichiamo il modulo di Netlify Identity
+  // per impostare la password, poi si entra nel pannello.
+  if (/(invite_token|recovery_token|confirmation_token|email_change_token)=/.test(location.hash)) {
+    var ni = document.createElement('script');
+    ni.src = 'https://identity.netlify.com/v1/netlify-identity-widget.js';
+    ni.onload = function () {
+      if (!window.netlifyIdentity) return;
+      window.netlifyIdentity.on('init', function (user) {
+        if (!user) {
+          window.netlifyIdentity.on('login', function () { location.href = '/admin/'; });
+        }
+      });
+      window.netlifyIdentity.init();
+    };
+    document.head.appendChild(ni);
+  }
+
   // FAQ accordion (any page with .faq-q)
   document.querySelectorAll('.faq-q').forEach(function (btn) {
     btn.addEventListener('click', function () {
