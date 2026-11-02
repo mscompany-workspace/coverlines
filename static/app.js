@@ -1,6 +1,13 @@
 /* Coverlines — header/footer condivisi + interazioni
    Modifica QUI il menu o il footer: vale per tutte le pagine. */
 (function () {
+  // Link di invito / recupero password ricevuti via email: portano alla home
+  // con un token nell'indirizzo. Li dirottiamo sul pannello, che sa gestirli.
+  if (/(invite_token|recovery_token|confirmation_token|email_change_token)=/.test(location.hash)
+      && location.pathname.indexOf('/admin') !== 0) {
+    location.replace('/admin/' + location.hash);
+    return;
+  }
   var headerHTML = `
 <div class="strip">
   <div class="wrap"><span><b>Produzione 100% Made in Italy</b></span></div>
@@ -147,23 +154,6 @@
   }
 
 
-  // Invito al pannello di gestione: il link ricevuto via email porta alla home
-  // con un token nell'indirizzo. Qui carichiamo il modulo di Netlify Identity
-  // per impostare la password, poi si entra nel pannello.
-  if (/(invite_token|recovery_token|confirmation_token|email_change_token)=/.test(location.hash)) {
-    var ni = document.createElement('script');
-    ni.src = 'https://identity.netlify.com/v1/netlify-identity-widget.js';
-    ni.onload = function () {
-      if (!window.netlifyIdentity) return;
-      window.netlifyIdentity.on('init', function (user) {
-        if (!user) {
-          window.netlifyIdentity.on('login', function () { location.href = '/admin/'; });
-        }
-      });
-      window.netlifyIdentity.init();
-    };
-    document.head.appendChild(ni);
-  }
 
   // FAQ accordion (any page with .faq-q)
   document.querySelectorAll('.faq-q').forEach(function (btn) {
