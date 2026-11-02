@@ -11,28 +11,29 @@ public_folder: "/uploads"        # come li richiama il sito
 locale: "it"
 publish_mode: simple
 site_url: https://timely-sunflower-28d156.netlify.app
+display_url: https://timely-sunflower-28d156.netlify.app
 
 collections:
-  - name: "prodotti"
-    label: "Prodotti"
-    label_singular: "Prodotto"
+  - name: "zanzariere"
+    label: "Zanzariere"
+    label_singular: "Zanzariera"
+    filter: { field: "categoria", value: "zanzariere" }
     folder: "content/prodotti"
     create: true
     extension: "json"
     format: "json"
     slug: "{{slug}}"
     identifier_field: titolo
-    summary: "{{titolo}}  —  {{categoria}}"
-    sortable_fields: ['titolo', 'categoria']
-    view_groups:
-      - label: "Categoria"
-        field: categoria
+    summary: "{{titolo}}"
+    sortable_fields: ['titolo', 'nome']
     search_fields: ['titolo', 'nome', 'descrizione']
-    fields:
+    editor:
+      preview: true
+    fields: &campi
       - label: "Titolo del prodotto"
         name: "titolo"
         widget: "string"
-        hint: "Il titolo grande della pagina ed è anche il titolo su Google."
+        hint: "Il titolo grande della pagina; è anche il titolo su Google."
 
       - label: "Nome commerciale"
         name: "nome"
@@ -101,7 +102,7 @@ collections:
         name: "videoguida_file"
         widget: "file"
         required: false
-        hint: "Da usare solo per video brevi e leggeri (max ~50 MB). Per i video lunghi usa il link qui sopra."
+        hint: "Solo per video brevi e leggeri (max ~50 MB). Per i video lunghi usa il link qui sopra."
 
       - label: "Pubblicato sul sito"
         name: "pubblicato"
@@ -117,3 +118,90 @@ collections:
       # campi tecnici, non modificabili dal pannello
       - { label: "Foto (catalogo)", name: "immagine", widget: "hidden", required: false }
       - { label: "Foto (link originale)", name: "immagine_url", widget: "hidden", required: false }
+
+
+  - name: "tapparelle"
+    label: "Tapparelle"
+    label_singular: "Tapparella"
+    filter: { field: "categoria", value: "tapparelle" }
+    folder: "content/prodotti"
+    create: true
+    extension: "json"
+    format: "json"
+    slug: "{{slug}}"
+    identifier_field: titolo
+    summary: "{{titolo}}"
+    sortable_fields: ['titolo', 'nome']
+    search_fields: ['titolo', 'nome', 'descrizione']
+    editor:
+      preview: true
+    fields: *campi
+
+  - name: "frangisole"
+    label: "Frangisole"
+    label_singular: "Frangisole"
+    filter: { field: "categoria", value: "frangisole" }
+    folder: "content/prodotti"
+    create: true
+    extension: "json"
+    format: "json"
+    slug: "{{slug}}"
+    identifier_field: titolo
+    summary: "{{titolo}}"
+    sortable_fields: ['titolo', 'nome']
+    search_fields: ['titolo', 'nome', 'descrizione']
+    editor:
+      preview: true
+    fields: *campi
+
+  - name: "cassonetti"
+    label: "Cassonetti coibentati"
+    label_singular: "Cassonetto"
+    filter: { field: "categoria", value: "cassonetti" }
+    folder: "content/prodotti"
+    create: true
+    extension: "json"
+    format: "json"
+    slug: "{{slug}}"
+    identifier_field: titolo
+    summary: "{{titolo}}"
+    sortable_fields: ['titolo', 'nome']
+    search_fields: ['titolo', 'nome', 'descrizione']
+    editor:
+      preview: true
+    fields: *campi
+
+  - name: "automazioni"
+    label: "Automazioni"
+    label_singular: "Automazione"
+    filter: { field: "categoria", value: "automazioni" }
+    folder: "content/prodotti"
+    create: true
+    extension: "json"
+    format: "json"
+    slug: "{{slug}}"
+    identifier_field: titolo
+    summary: "{{titolo}}"
+    sortable_fields: ['titolo', 'nome']
+    search_fields: ['titolo', 'nome', 'descrizione']
+    editor:
+      preview: true
+    fields: *campi
+
+  - name: "accessori"
+    label: "Accessori tapparelle"
+    label_singular: "Accessorio"
+    filter: { field: "categoria", value: "accessori" }
+    folder: "content/prodotti"
+    create: true
+    extension: "json"
+    format: "json"
+    slug: "{{slug}}"
+    identifier_field: titolo
+    summary: "{{titolo}}"
+    sortable_fields: ['titolo', 'nome']
+    search_fields: ['titolo', 'nome', 'descrizione']
+    editor:
+      preview: true
+    fields: *campi
+

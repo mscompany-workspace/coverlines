@@ -5,6 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex">
 <title>Gestione sito — Coverlines</title>
+<style>
+  /* casella di ricerca più evidente nel menu laterale */
+  input[placeholder*="Cerca"], input[placeholder*="Search"] {
+    font-size: 15px !important;
+    padding-top: 12px !important; padding-bottom: 12px !important;
+    border: 2px solid #00a8ff !important;
+    border-radius: 10px !important;
+    background: #fff !important;
+  }
+  input[placeholder*="Cerca"]:focus, input[placeholder*="Search"]:focus {
+    box-shadow: 0 0 0 4px rgba(0,168,255,.18) !important;
+  }
+</style>
 </head>
 <body>
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -21,9 +34,14 @@
       return;
     }
 
-    // Accesso normale: carica il pannello
+    // Accesso normale: carica il pannello, poi l'anteprima dal vivo
     var s = document.createElement('script');
     s.src = 'https://unpkg.com/decap-cms@3.8.3/dist/decap-cms.js';
+    s.onload = function () {
+      var p = document.createElement('script');
+      p.src = '/admin/preview.js';
+      document.body.appendChild(p);
+    };
     document.body.appendChild(s);
   })();
 </script>

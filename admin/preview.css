@@ -1,0 +1,7 @@
+/* ritocchi per l'anteprima dentro il pannello: nasconde il modulo contatti,
+   che non ha senso modificare da qui, e segnala che i link non sono attivi */
+.anteprima-sito{min-height:100vh}
+.anteprima-sito .contact-sec{display:none}
+.anteprima-sito #richiedi{display:none}
+.anteprima-sito a{cursor:default}
+.anteprima-sito .wrap{max-width:none;padding-inline:clamp(16px,3vw,40px)}
