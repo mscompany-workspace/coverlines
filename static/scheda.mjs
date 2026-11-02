@@ -47,6 +47,8 @@ export function embedUrl(u = '') {
 export function schedaHTML(p, opts = {}) {
   const asset = opts.asset || (v => v);
   const link  = opts.link  || (v => v);
+  // in anteprima ogni blocco porta il nome del campo che lo modifica
+  const dc = (campo) => opts.campi ? ` data-campo="${campo}"` : '';
   const cat = CAT[p.categoria] || { nome: p.categoria || 'Prodotti', page: 'prodotti.html' };
   const nome = p.nome || p.titolo || '';
   const titolo = p.titolo || p.nome || 'Prodotto';
@@ -54,8 +56,8 @@ export function schedaHTML(p, opts = {}) {
   const src = imgSrc(p);
 
   const shot = src
-    ? `<div class="pshot"><img src="${esc(asset(src))}" alt="${esc(nome)}"></div>`
-    : '<div class="pshot pshot-empty"><span>Immagine non disponibile</span></div>';
+    ? `<div class="pshot"${dc('immagine_upload')}><img src="${esc(asset(src))}" alt="${esc(nome)}"></div>`
+    : `<div class="pshot pshot-empty"${dc('immagine_upload')}><span>Immagine non disponibile</span></div>`;
 
   let righe = (p.caratteristiche || [])
     .filter(c => c && String(c.etichetta || '').trim() && String(c.valore || '').trim())
@@ -63,8 +65,8 @@ export function schedaHTML(p, opts = {}) {
     .join('');
   const colori = (p.colori || []).map(c => (c && typeof c === 'object') ? (c.colore || '') : c).filter(Boolean);
   if (colori.length)
-    righe += `<div class="row"><span class="lb">Colori</span><span class="vl">${esc(colori.join(' · '))}</span></div>`;
-  const spec = righe ? `<div class="spec">${righe}</div>` : '';
+    righe += `<div class="row"${dc('colori')}><span class="lb">Colori</span><span class="vl">${esc(colori.join(' · '))}</span></div>`;
+  const spec = righe ? `<div class="spec"${dc('caratteristiche')}>${righe}</div>` : '';
 
   const docs = (p.documenti || []).filter(d => d && (d.file || d.url));
   const docsHtml = docs.length ? `  <section class="section docs-sec">
@@ -73,7 +75,7 @@ export function schedaHTML(p, opts = {}) {
         <span class="eyebrow">Documentazione</span>
         <h2 class="title">Schede, manuali e certificazioni.</h2>
       </div>
-      <div class="doc-grid">
+      <div class="doc-grid"${dc('documenti')}>
 ${docs.map(d => `        <a class="doc-card" href="${esc(asset(d.file || d.url))}" target="_blank" rel="noopener">
           ${PDF_ICON}
           <span class="t"><b>${esc(d.titolo || 'Documento PDF')}</b><span>PDF</span></span>
@@ -87,11 +89,20 @@ ${docs.map(d => `        <a class="doc-card" href="${esc(asset(d.file || d.url))
   let videoHtml = '';
   const emb = embedUrl(p.videoguida_url);
   const fileVideo = p.videoguida_file || ((p.videoguida_url && /\.(mp4|webm|mov)(\?|$)/i.test(p.videoguida_url)) ? p.videoguida_url : '');
-  if (emb) {
+  if (emb && opts.anteprima) {
     videoHtml = `  <section class="section video-sec">
     <div class="wrap">
       <div class="section-head"><span class="eyebrow">Videoguida</span><h2 class="title">Installazione passo passo.</h2></div>
-      <div class="video-wrap"><iframe src="${esc(emb)}" title="Videoguida ${esc(nome)}" loading="lazy" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>
+      <div class="video-wrap video-finto"${dc('videoguida_url')}><span>&#9654; Video incorporato<br><small>${esc(p.videoguida_url)}</small></span></div>
+    </div>
+  </section>
+
+`;
+  } else if (emb) {
+    videoHtml = `  <section class="section video-sec">
+    <div class="wrap">
+      <div class="section-head"><span class="eyebrow">Videoguida</span><h2 class="title">Installazione passo passo.</h2></div>
+      <div class="video-wrap"${dc('videoguida_url')}><iframe src="${esc(emb)}" title="Videoguida ${esc(nome)}" loading="lazy" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>
     </div>
   </section>
 
@@ -100,7 +111,7 @@ ${docs.map(d => `        <a class="doc-card" href="${esc(asset(d.file || d.url))
     videoHtml = `  <section class="section video-sec">
     <div class="wrap">
       <div class="section-head"><span class="eyebrow">Videoguida</span><h2 class="title">Installazione passo passo.</h2></div>
-      <div class="video-wrap"><video src="${esc(asset(fileVideo))}" controls preload="metadata"></video></div>
+      <div class="video-wrap"${dc('videoguida_file')}><video src="${esc(asset(fileVideo))}" controls preload="metadata"></video></div>
     </div>
   </section>
 
@@ -110,8 +121,8 @@ ${docs.map(d => `        <a class="doc-card" href="${esc(asset(d.file || d.url))
   return `  <section class="page-hero">
     <div class="wrap">
       <div class="breadcrumb"><a href="${link('index.html')}">Home</a><span class="sep">/</span><a href="${link('prodotti.html')}">Prodotti</a><span class="sep">/</span><a href="${link(cat.page)}">${esc(cat.nome)}</a><span class="sep">/</span> ${esc(nome)}</div>
-      <span class="eyebrow">${esc(cat.nome)}</span>
-      <h1>${esc(titolo)}</h1>
+      <span class="eyebrow"${dc('categoria')}>${esc(cat.nome)}</span>
+      <h1${dc('titolo')}>${esc(titolo)}</h1>
     </div>
   </section>
 
@@ -120,8 +131,9 @@ ${docs.map(d => `        <a class="doc-card" href="${esc(asset(d.file || d.url))
       <div class="pdetail">
         ${shot}
         <div class="pinfo">
-          <h2>${esc(nome)}</h2>
-${desc.map(t => `          <p class="pdesc">${esc(t)}</p>`).join('\n')}
+          <h2${dc('nome')}>${esc(nome)}</h2>
+${desc.length ? desc.map(t => `          <p class="pdesc"${dc('descrizione')}>${esc(t)}</p>`).join('\n')
+             : (opts.anteprima ? `          <p class="pdesc pdesc-vuota"${dc('descrizione')}>Nessuna descrizione: clicca qui per scriverla.</p>` : '')}
           ${spec}
           <div class="pactions">
             <a href="#richiedi" class="btn btn-pri">Richiedi informazioni</a>

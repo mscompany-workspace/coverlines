@@ -1,0 +1,18 @@
+/* applicato alla pagina dentro l'anteprima */
+html { scroll-behavior: auto; }
+.contact-sec, #richiedi { display: none; }
+a { cursor: pointer; }
+/* elementi modificabili: bordo tratteggiato ed etichetta al passaggio del mouse */
+[data-campo] { cursor: pointer; position: relative; outline: 2px dashed transparent; outline-offset: 5px; border-radius: 6px; transition: outline-color .15s; }
+[data-campo]:hover { outline-color: #00a8ff; }
+[data-campo]:hover::after {
+  content: "✎ modifica"; position: absolute; top: -12px; right: -6px; z-index: 5;
+  background: #00a8ff; color: #142440; font: 600 11px Inter, system-ui, sans-serif;
+  padding: 2px 8px; border-radius: 6px; pointer-events: none;
+}
+.spec [data-campo]:hover::after { top: 2px; right: 0; }
+.pshot { position: static; }
+.pdesc-vuota { color: #8a94a3; font-style: italic; }
+.video-finto { display: flex; align-items: center; justify-content: center; text-align: center; color: #fff; }
+.video-finto span { font: 600 15px Inter, system-ui, sans-serif; line-height: 1.6; }
+.video-finto small { font-weight: 400; color: #9fb0c6; word-break: break-all; }
